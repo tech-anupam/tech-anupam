@@ -1,0 +1,135 @@
+<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Inter,Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07070b"/>
+      <stop offset="55%" stop-color="#0a0c14"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ffc8"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#ff3ea5"/>
+      <animate attributeName="x1" values="0;1;0" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;2;1" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0c14" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0c14" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0c14" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0a0c14" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="marqueeClip">
+      <rect x="40" y="166" width="820" height="42"/>
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="340" rx="18" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="897" height="337" rx="17" fill="none" stroke="url(#border)" stroke-width="2"/>
+
+  <!-- header -->
+  <circle cx="46" cy="66" r="5" fill="#00ffc8">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="66" y="76" font-size="34" font-weight="800" fill="#f4f4f5">ANUPAM JHA</text>
+  <text x="42" y="106" font-size="15" fill="#9ca3af">Full-stack developer — New Delhi, India</text>
+  <text x="42" y="128" font-size="12.5" fill="#6b7280">18 years old, building AnupamBuilds full time.</text>
+
+  <line x1="40" y1="148" x2="860" y2="148" stroke="#1c2230" stroke-width="1"/>
+
+  <!-- scrolling stack marquee -->
+  <g clip-path="url(#marqueeClip)">
+    <g font-size="17" font-weight="700" letter-spacing="1">
+      <g>
+        <text x="0" y="192" fill="#61dafb">REACT</text>
+        <text x="105" y="192" fill="#4b5563">/</text>
+        <text x="125" y="192" fill="#e5e7eb">NEXT.JS</text>
+        <text x="250" y="192" fill="#4b5563">/</text>
+        <text x="270" y="192" fill="#38bdf8">TAILWIND CSS</text>
+        <text x="460" y="192" fill="#4b5563">/</text>
+        <text x="480" y="192" fill="#3178c6">TYPESCRIPT</text>
+        <text x="650" y="192" fill="#4b5563">/</text>
+        <text x="670" y="192" fill="#68a063">NODE.JS</text>
+        <text x="810" y="192" fill="#4b5563">/</text>
+        <text x="830" y="192" fill="#3ecf8e">SUPABASE</text>
+        <text x="1000" y="192" fill="#4b5563">/</text>
+        <text x="1020" y="192" fill="#f38020">CLOUDFLARE</text>
+        <text x="1195" y="192" fill="#4b5563">/</text>
+        <text x="1215" y="192" fill="#f97362">FORGE</text>
+        <text x="1300" y="192" fill="#4b5563">/</text>
+        <text x="1320" y="192" fill="#1bd96a">MODRINTH</text>
+      </g>
+      <g transform="translate(1480,0)">
+        <text x="0" y="192" fill="#61dafb">REACT</text>
+        <text x="105" y="192" fill="#4b5563">/</text>
+        <text x="125" y="192" fill="#e5e7eb">NEXT.JS</text>
+        <text x="250" y="192" fill="#4b5563">/</text>
+        <text x="270" y="192" fill="#38bdf8">TAILWIND CSS</text>
+        <text x="460" y="192" fill="#4b5563">/</text>
+        <text x="480" y="192" fill="#3178c6">TYPESCRIPT</text>
+        <text x="650" y="192" fill="#4b5563">/</text>
+        <text x="670" y="192" fill="#68a063">NODE.JS</text>
+        <text x="810" y="192" fill="#4b5563">/</text>
+        <text x="830" y="192" fill="#3ecf8e">SUPABASE</text>
+        <text x="1000" y="192" fill="#4b5563">/</text>
+        <text x="1020" y="192" fill="#f38020">CLOUDFLARE</text>
+        <text x="1195" y="192" fill="#4b5563">/</text>
+        <text x="1215" y="192" fill="#f97362">FORGE</text>
+        <text x="1300" y="192" fill="#4b5563">/</text>
+        <text x="1320" y="192" fill="#1bd96a">MODRINTH</text>
+      </g>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="-1480,0" dur="18s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <rect x="40" y="166" width="50" height="42" fill="url(#fadeL)"/>
+  <rect x="810" y="166" width="50" height="42" fill="url(#fadeR)"/>
+
+  <line x1="40" y1="222" x2="860" y2="222" stroke="#1c2230" stroke-width="1"/>
+
+  <!-- link pills -->
+  <g font-size="11" font-weight="700">
+    <g>
+      <rect x="40" y="244" width="128" height="52" rx="10" fill="#0f131a" stroke="#1f2937" stroke-width="1.2">
+        <animate attributeName="stroke" values="#1f2937;#00ffc8;#1f2937" dur="6s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+      <text x="54" y="266" fill="#00ffc8">SITE</text>
+      <text x="54" y="282" font-size="10" font-weight="400" fill="#9ca3af">anupambuilds.store</text>
+    </g>
+    <g>
+      <rect x="180" y="244" width="128" height="52" rx="10" fill="#0f131a" stroke="#1f2937" stroke-width="1.2">
+        <animate attributeName="stroke" values="#1f2937;#7c3aed;#1f2937" dur="6s" begin="1s" repeatCount="indefinite"/>
+      </rect>
+      <text x="194" y="266" fill="#a78bfa">GITHUB</text>
+      <text x="194" y="282" font-size="10" font-weight="400" fill="#9ca3af">tech-anupam</text>
+    </g>
+    <g>
+      <rect x="320" y="244" width="128" height="52" rx="10" fill="#0f131a" stroke="#1f2937" stroke-width="1.2">
+        <animate attributeName="stroke" values="#1f2937;#ff3ea5;#1f2937" dur="6s" begin="2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="334" y="266" fill="#ff70b8">INSTAGRAM</text>
+      <text x="334" y="282" font-size="10" font-weight="400" fill="#9ca3af">tech.anupam</text>
+    </g>
+    <g>
+      <rect x="460" y="244" width="128" height="52" rx="10" fill="#0f131a" stroke="#1f2937" stroke-width="1.2">
+        <animate attributeName="stroke" values="#1f2937;#3b82f6;#1f2937" dur="6s" begin="3s" repeatCount="indefinite"/>
+      </rect>
+      <text x="474" y="266" fill="#60a5fa">LINKEDIN</text>
+      <text x="474" y="282" font-size="10" font-weight="400" fill="#9ca3af">tech-anupam-jha</text>
+    </g>
+    <g>
+      <rect x="600" y="244" width="128" height="52" rx="10" fill="#0f131a" stroke="#1f2937" stroke-width="1.2">
+        <animate attributeName="stroke" values="#1f2937;#5865f2;#1f2937" dur="6s" begin="4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="614" y="266" fill="#8b93f8">DISCORD</text>
+      <text x="614" y="282" font-size="10" font-weight="400" fill="#9ca3af">g1.ax</text>
+    </g>
+    <g>
+      <rect x="740" y="244" width="120" height="52" rx="10" fill="#0f131a" stroke="#1f2937" stroke-width="1.2">
+        <animate attributeName="stroke" values="#1f2937;#1bd96a;#1f2937" dur="6s" begin="5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="754" y="266" fill="#4ade80">MODRINTH</text>
+      <text x="754" y="282" font-size="10" font-weight="400" fill="#9ca3af">tech.anupam</text>
+    </g>
+  </g>
+</svg>
