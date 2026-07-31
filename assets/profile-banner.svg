@@ -1,135 +1,115 @@
-<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Inter,Arial,sans-serif">
+<svg width="1200" height="380" viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg" font-family="'Inter','Segoe UI',Arial,sans-serif">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#07070b"/>
-      <stop offset="55%" stop-color="#0a0c14"/>
-      <stop offset="100%" stop-color="#0d1117"/>
+    <radialGradient id="glow" cx="82%" cy="12%" r="55%">
+      <stop offset="0%" stop-color="#3a3a42" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0c0c0e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1c1c22" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#26262e" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#1c1c22" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00ffc8"/>
-      <stop offset="50%" stop-color="#7c3aed"/>
-      <stop offset="100%" stop-color="#ff3ea5"/>
-      <animate attributeName="x1" values="0;1;0" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="1;2;1" dur="7s" repeatCount="indefinite"/>
-    </linearGradient>
-    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0a0c14" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#0a0c14" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0a0c14" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#0a0c14" stop-opacity="1"/>
-    </linearGradient>
-    <clipPath id="marqueeClip">
-      <rect x="40" y="166" width="820" height="42"/>
-    </clipPath>
   </defs>
 
-  <rect width="900" height="340" rx="18" fill="url(#bg)"/>
-  <rect x="1.5" y="1.5" width="897" height="337" rx="17" fill="none" stroke="url(#border)" stroke-width="2"/>
+  <rect width="1200" height="380" rx="20" fill="#0c0c0e"/>
+  <rect width="1200" height="380" rx="20" fill="url(#glow)"/>
 
-  <!-- header -->
-  <circle cx="46" cy="66" r="5" fill="#00ffc8">
-    <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+  <g opacity="0.45">
+    <path d="M -50 330 Q 250 292 600 322 T 1250 300" fill="none" stroke="url(#wave1)" stroke-width="1.5">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="M -50 330 Q 250 292 600 322 T 1250 300;
+                M -50 322 Q 250 308 600 300 T 1250 326;
+                M -50 330 Q 250 292 600 322 T 1250 300"/>
+    </path>
+    <path d="M -50 350 Q 300 330 650 348 T 1250 338" fill="none" stroke="#1f1f26" stroke-width="1.2" opacity="0.7">
+      <animate attributeName="d" dur="13s" repeatCount="indefinite"
+        values="M -50 350 Q 300 330 650 348 T 1250 338;
+                M -50 342 Q 300 352 650 332 T 1250 350;
+                M -50 350 Q 300 330 650 348 T 1250 338"/>
+    </path>
+  </g>
+
+  <rect x="1.5" y="1.5" width="1197" height="377" rx="19" fill="none" stroke="#1c1c22" stroke-width="1"/>
+
+  <!-- icon mark -->
+  <rect x="70" y="56" width="64" height="64" rx="18" fill="#f4f2ee"/>
+  <text x="102" y="102" font-size="34" font-weight="800" fill="#0c0c0e" text-anchor="middle">AJ</text>
+
+  <!-- name -->
+  <text x="70" y="195" font-size="58" font-weight="800" fill="#f4f2ee" letter-spacing="-1">Anupam Jha</text>
+
+  <!-- subtitle -->
+  <text x="72" y="228" font-size="16" font-weight="700" fill="#8b8b93" letter-spacing="1.5">FULL-STACK DEVELOPER, INDIE BUILDER.</text>
+
+  <line x1="70" y1="252" x2="1130" y2="252" stroke="#1c1c22" stroke-width="1"/>
+
+  <!-- tag row -->
+  <text x="72" y="280" font-size="15" font-weight="700" fill="#f4f2ee">AnupamBuilds</text>
+  <text x="196" y="280" font-size="15" fill="#4a4a52">/</text>
+  <text x="214" y="280" font-size="15" fill="#7a7a82">React · Next.js · Tailwind · TypeScript</text>
+
+  <line x1="70" y1="300" x2="1130" y2="300" stroke="#1c1c22" stroke-width="1"/>
+
+  <!-- link row -->
+  <g fill="none" stroke="#cfcfd3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- website: globe -->
+    <g transform="translate(70,322)">
+      <circle cx="10" cy="10" r="9"/>
+      <ellipse cx="10" cy="10" rx="4" ry="9"/>
+      <line x1="1" y1="10" x2="19" y2="10"/>
+    </g>
+    <text x="100" y="329" font-size="14" font-weight="600" fill="#e6e6ea">Website</text>
+    <text x="100" y="346" font-size="12" fill="#6c6c74" font-family="'Segoe UI',Arial,sans-serif" stroke="none">anupambuilds.store</text>
+
+    <!-- github mark -->
+    <g transform="translate(250,322) scale(0.78)" fill="#cfcfd3" stroke="none">
+      <path d="M10 0C4.477 0 0 4.477 0 10c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.461-1.11-1.461-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.831.091-.646.349-1.087.635-1.337-2.221-.253-4.555-1.111-4.555-4.943 0-1.091.39-1.984 1.03-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.564 9.564 0 0110 4.844c.85.004 1.705.115 2.504.337 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.337 4.687-4.565 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.579.688.481A9.998 9.998 0 0020 10c0-5.523-4.477-10-10-10z"/>
+    </g>
+    <text x="288" y="329" font-size="14" font-weight="600" fill="#e6e6ea">GitHub</text>
+    <text x="288" y="346" font-size="12" fill="#6c6c74" font-family="'Segoe UI',Arial,sans-serif" stroke="none">tech-anupam</text>
+
+    <!-- instagram -->
+    <g transform="translate(430,322)">
+      <rect x="0.5" y="0.5" width="19" height="19" rx="6"/>
+      <circle cx="10" cy="10" r="4.5"/>
+      <circle cx="15.3" cy="4.7" r="1.1" fill="#cfcfd3" stroke="none"/>
+    </g>
+    <text x="460" y="329" font-size="14" font-weight="600" fill="#e6e6ea">Instagram</text>
+    <text x="460" y="346" font-size="12" fill="#6c6c74" font-family="'Segoe UI',Arial,sans-serif" stroke="none">tech.anupam</text>
+
+    <!-- linkedin -->
+    <g transform="translate(620,322)">
+      <rect x="0.5" y="0.5" width="19" height="19" rx="4"/>
+    </g>
+    <text x="627" y="337" font-size="12" font-weight="800" fill="#cfcfd3" stroke="none" font-family="'Segoe UI',Arial,sans-serif">in</text>
+    <text x="650" y="329" font-size="14" font-weight="600" fill="#e6e6ea">LinkedIn</text>
+    <text x="650" y="346" font-size="12" fill="#6c6c74" font-family="'Segoe UI',Arial,sans-serif" stroke="none">tech-anupam-jha</text>
+
+    <!-- discord -->
+    <g transform="translate(830,322)">
+      <path d="M2 13 Q1 6 6 4 Q10 2.5 14 4 Q19 6 18 13 Q15 16 13 15.5 L12 14 Q10 14.5 8 14 L7 15.5 Q5 16 2 13 Z"/>
+      <circle cx="7.5" cy="10" r="1.3" fill="#cfcfd3" stroke="none"/>
+      <circle cx="12.5" cy="10" r="1.3" fill="#cfcfd3" stroke="none"/>
+    </g>
+    <text x="860" y="329" font-size="14" font-weight="600" fill="#e6e6ea">Discord</text>
+    <text x="860" y="346" font-size="12" fill="#6c6c74" font-family="'Segoe UI',Arial,sans-serif" stroke="none">g1.ax</text>
+
+    <!-- modrinth -->
+    <g transform="translate(1000,322)">
+      <rect x="0.5" y="0.5" width="19" height="19" rx="9.5"/>
+      <path d="M5 12 L8 6 L10 10 L12 6 L15 12"/>
+    </g>
+    <text x="1030" y="329" font-size="14" font-weight="600" fill="#e6e6ea">Modrinth</text>
+    <text x="1030" y="346" font-size="12" fill="#6c6c74" font-family="'Segoe UI',Arial,sans-serif" stroke="none">tech.anupam</text>
+  </g>
+
+  <!-- corner accent -->
+  <g stroke="#4a4a52" stroke-width="1.4" fill="none">
+    <path d="M 1050 80 L 1090 80 L 1110 100"/>
+  </g>
+  <circle cx="1050" cy="80" r="4" fill="#f4f2ee">
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
   </circle>
-  <text x="66" y="76" font-size="34" font-weight="800" fill="#f4f4f5">ANUPAM JHA</text>
-  <text x="42" y="106" font-size="15" fill="#9ca3af">Full-stack developer — New Delhi, India</text>
-  <text x="42" y="128" font-size="12.5" fill="#6b7280">18 years old, building AnupamBuilds full time.</text>
-
-  <line x1="40" y1="148" x2="860" y2="148" stroke="#1c2230" stroke-width="1"/>
-
-  <!-- scrolling stack marquee -->
-  <g clip-path="url(#marqueeClip)">
-    <g font-size="17" font-weight="700" letter-spacing="1">
-      <g>
-        <text x="0" y="192" fill="#61dafb">REACT</text>
-        <text x="105" y="192" fill="#4b5563">/</text>
-        <text x="125" y="192" fill="#e5e7eb">NEXT.JS</text>
-        <text x="250" y="192" fill="#4b5563">/</text>
-        <text x="270" y="192" fill="#38bdf8">TAILWIND CSS</text>
-        <text x="460" y="192" fill="#4b5563">/</text>
-        <text x="480" y="192" fill="#3178c6">TYPESCRIPT</text>
-        <text x="650" y="192" fill="#4b5563">/</text>
-        <text x="670" y="192" fill="#68a063">NODE.JS</text>
-        <text x="810" y="192" fill="#4b5563">/</text>
-        <text x="830" y="192" fill="#3ecf8e">SUPABASE</text>
-        <text x="1000" y="192" fill="#4b5563">/</text>
-        <text x="1020" y="192" fill="#f38020">CLOUDFLARE</text>
-        <text x="1195" y="192" fill="#4b5563">/</text>
-        <text x="1215" y="192" fill="#f97362">FORGE</text>
-        <text x="1300" y="192" fill="#4b5563">/</text>
-        <text x="1320" y="192" fill="#1bd96a">MODRINTH</text>
-      </g>
-      <g transform="translate(1480,0)">
-        <text x="0" y="192" fill="#61dafb">REACT</text>
-        <text x="105" y="192" fill="#4b5563">/</text>
-        <text x="125" y="192" fill="#e5e7eb">NEXT.JS</text>
-        <text x="250" y="192" fill="#4b5563">/</text>
-        <text x="270" y="192" fill="#38bdf8">TAILWIND CSS</text>
-        <text x="460" y="192" fill="#4b5563">/</text>
-        <text x="480" y="192" fill="#3178c6">TYPESCRIPT</text>
-        <text x="650" y="192" fill="#4b5563">/</text>
-        <text x="670" y="192" fill="#68a063">NODE.JS</text>
-        <text x="810" y="192" fill="#4b5563">/</text>
-        <text x="830" y="192" fill="#3ecf8e">SUPABASE</text>
-        <text x="1000" y="192" fill="#4b5563">/</text>
-        <text x="1020" y="192" fill="#f38020">CLOUDFLARE</text>
-        <text x="1195" y="192" fill="#4b5563">/</text>
-        <text x="1215" y="192" fill="#f97362">FORGE</text>
-        <text x="1300" y="192" fill="#4b5563">/</text>
-        <text x="1320" y="192" fill="#1bd96a">MODRINTH</text>
-      </g>
-      <animateTransform attributeName="transform" type="translate" from="0,0" to="-1480,0" dur="18s" repeatCount="indefinite"/>
-    </g>
-  </g>
-  <rect x="40" y="166" width="50" height="42" fill="url(#fadeL)"/>
-  <rect x="810" y="166" width="50" height="42" fill="url(#fadeR)"/>
-
-  <line x1="40" y1="222" x2="860" y2="222" stroke="#1c2230" stroke-width="1"/>
-
-  <!-- link pills -->
-  <g font-size="11" font-weight="700">
-    <g>
-      <rect x="40" y="244" width="128" height="52" rx="10" fill="#0f131a" stroke="#1f2937" stroke-width="1.2">
-        <animate attributeName="stroke" values="#1f2937;#00ffc8;#1f2937" dur="6s" begin="0s" repeatCount="indefinite"/>
-      </rect>
-      <text x="54" y="266" fill="#00ffc8">SITE</text>
-      <text x="54" y="282" font-size="10" font-weight="400" fill="#9ca3af">anupambuilds.store</text>
-    </g>
-    <g>
-      <rect x="180" y="244" width="128" height="52" rx="10" fill="#0f131a" stroke="#1f2937" stroke-width="1.2">
-        <animate attributeName="stroke" values="#1f2937;#7c3aed;#1f2937" dur="6s" begin="1s" repeatCount="indefinite"/>
-      </rect>
-      <text x="194" y="266" fill="#a78bfa">GITHUB</text>
-      <text x="194" y="282" font-size="10" font-weight="400" fill="#9ca3af">tech-anupam</text>
-    </g>
-    <g>
-      <rect x="320" y="244" width="128" height="52" rx="10" fill="#0f131a" stroke="#1f2937" stroke-width="1.2">
-        <animate attributeName="stroke" values="#1f2937;#ff3ea5;#1f2937" dur="6s" begin="2s" repeatCount="indefinite"/>
-      </rect>
-      <text x="334" y="266" fill="#ff70b8">INSTAGRAM</text>
-      <text x="334" y="282" font-size="10" font-weight="400" fill="#9ca3af">tech.anupam</text>
-    </g>
-    <g>
-      <rect x="460" y="244" width="128" height="52" rx="10" fill="#0f131a" stroke="#1f2937" stroke-width="1.2">
-        <animate attributeName="stroke" values="#1f2937;#3b82f6;#1f2937" dur="6s" begin="3s" repeatCount="indefinite"/>
-      </rect>
-      <text x="474" y="266" fill="#60a5fa">LINKEDIN</text>
-      <text x="474" y="282" font-size="10" font-weight="400" fill="#9ca3af">tech-anupam-jha</text>
-    </g>
-    <g>
-      <rect x="600" y="244" width="128" height="52" rx="10" fill="#0f131a" stroke="#1f2937" stroke-width="1.2">
-        <animate attributeName="stroke" values="#1f2937;#5865f2;#1f2937" dur="6s" begin="4s" repeatCount="indefinite"/>
-      </rect>
-      <text x="614" y="266" fill="#8b93f8">DISCORD</text>
-      <text x="614" y="282" font-size="10" font-weight="400" fill="#9ca3af">g1.ax</text>
-    </g>
-    <g>
-      <rect x="740" y="244" width="120" height="52" rx="10" fill="#0f131a" stroke="#1f2937" stroke-width="1.2">
-        <animate attributeName="stroke" values="#1f2937;#1bd96a;#1f2937" dur="6s" begin="5s" repeatCount="indefinite"/>
-      </rect>
-      <text x="754" y="266" fill="#4ade80">MODRINTH</text>
-      <text x="754" y="282" font-size="10" font-weight="400" fill="#9ca3af">tech.anupam</text>
-    </g>
-  </g>
+  <circle cx="1110" cy="100" r="4" fill="#f4f2ee"/>
 </svg>
