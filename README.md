@@ -4,21 +4,66 @@
 
 <br/>
 
-I'm 18, from New Delhi. I build websites, Minecraft mods, and Android apps, and run a Discord community around it. AnupamBuilds started as a side thing and turned into most of what I spend my time on now.
+## About
 
-### Stack
+I'm Anupam. I build websites, Minecraft mods, and Android apps, and run a Discord community around it. AnupamBuilds started as a side thing and turned into most of what I spend my time on now.
 
-**Frontend** — React, Next.js, TypeScript, Tailwind CSS, Framer Motion, Vite
-**Backend** — Hono.js, Node.js, Python, Java
-**Data** — Turso, PostgreSQL, Prisma, Supabase, Firebase
-**Infra** — Cloudflare Workers, Clerk, Razorpay
-**Minecraft** — Fabric API, Forge, Modrinth
+I mostly work solo, end to end — design, build, deploy, and whatever comes after that.
 
-### What I'm working on
+<br/>
 
-**Saarth** — a multi-sided local services platform for Delhi NCR, built around hyperlocal density.
-**finOS** — a money management SaaS with dashboards tailored per business type.
-**Incogniq** — a zero-identity, end-to-end encrypted ephemeral chat platform with no backend server.
-**OSINTFORIND** — an India-focused OSINT tool pulling from 150+ Indian sources.
-**GharHisaab** — an attendance and advance-payment tracker for domestic staff, built for Indian households.
-**G1axCRM** — a serverless CRM running entirely off Supabase, no custom backend.
+## Stack
+
+### Frontend
+
+| Tool | |
+|---|---|
+| React | ██████████████████░░ 90% |
+| Next.js | █████████████████░░░ 85% |
+| Tailwind CSS | ██████████████████░░ 90% |
+| TypeScript | ████████████████░░░░ 80% |
+| Framer Motion | █████████████████░░░ 85% |
+| Vite | █████████████████░░░ 85% |
+
+### Backend
+
+| Tool | |
+|---|---|
+| Node.js | ████████████████░░░░ 80% |
+| Hono.js | ████████████████░░░░ 80% |
+| Python | ██████████████░░░░░░ 70% |
+| Java | ███████████████░░░░░ 75% |
+
+### Data & Infra
+
+| Tool | |
+|---|---|
+| Supabase | █████████████████░░░ 85% |
+| Turso | ████████████████░░░░ 80% |
+| PostgreSQL | ███████████████░░░░░ 75% |
+| Prisma | ██████████████░░░░░░ 70% |
+| Cloudflare Workers | — |
+| Clerk / Razorpay | — |
+
+### Minecraft
+
+| Tool | |
+|---|---|
+| Fabric API | █████████████████░░░ 85% |
+| Forge | ████████████████░░░░ 80% |
+| Modrinth | ██████████████████░░ 90% |
+
+<br/>
+
+## What I build
+
+- **Web applications** — full-stack, mostly React/Next.js on the frontend, running lean on free-tier infra where it makes sense.
+- **Minecraft mods & tools** — built with Fabric and Forge, published on Modrinth.
+- **Discord bots** — custom automation for communities.
+- **OSINT tooling** — recon and data-gathering tools, India-focused.
+
+<br/>
+
+## Notes
+
+> Most of what I ship starts as a personal itch — a tool I wanted, a mod my server needed, a dashboard that didn't exist yet. If it's useful to me, I usually put it out publicly too.
