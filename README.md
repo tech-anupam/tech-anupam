@@ -133,11 +133,11 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 ## Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [BoardMyDelulu v1.0.0](https://github.com/tech-anupam/BoardMyDelulu-PC/releases/tag/v1.0.0) in [tech-anupam/BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC)
-2. 🚀 Published release [BoardMyDelulu Debug Version (UNSIGNED RELEASE)](https://github.com/tech-anupam/BoardMyDelulu/releases/tag/apk) in [tech-anupam/BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu)
-3. 🚀 Published release [Googlify APK/EXTENSION RELEASE](https://github.com/tech-anupam/Googlify/releases/tag/release) in [tech-anupam/Googlify](https://github.com/tech-anupam/Googlify)
-4. 🗣 Commented on [#10](https://github.com/tech-anupam/G1ax-Crystal-Optimizer/issues/10#issuecomment-5448659741) in [tech-anupam/G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer)
-5. 🔒 Closed issue [#10](https://github.com/tech-anupam/G1ax-Crystal-Optimizer/issues/10) in [tech-anupam/G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer)
+1. 💪 Opened PR [#1791](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1791) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. 🚀 Published release [BoardMyDelulu v1.0.0](https://github.com/tech-anupam/BoardMyDelulu-PC/releases/tag/v1.0.0) in [tech-anupam/BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC)
+3. 🚀 Published release [BoardMyDelulu Debug Version (UNSIGNED RELEASE)](https://github.com/tech-anupam/BoardMyDelulu/releases/tag/apk) in [tech-anupam/BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu)
+4. 🚀 Published release [Googlify APK/EXTENSION RELEASE](https://github.com/tech-anupam/Googlify/releases/tag/release) in [tech-anupam/Googlify](https://github.com/tech-anupam/Googlify)
+5. 🗣 Commented on [#10](https://github.com/tech-anupam/G1ax-Crystal-Optimizer/issues/10#issuecomment-5448659741) in [tech-anupam/G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer)
 <!--END_SECTION:activity-->
 
 
