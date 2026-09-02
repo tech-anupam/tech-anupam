@@ -140,8 +140,12 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 5. 🔒 Closed issue [#10](https://github.com/tech-anupam/G1ax-Crystal-Optimizer/issues/10) in [tech-anupam/G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer)
 <!--END_SECTION:activity-->
 
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tech-anupam&theme=react-dark&bg_color=0d1117&color=22D3EE&line=22D3EE&point=4ADE80&hide_border=true&area=true" alt="Contribution activity">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tech-anupam&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ## Elsewhere
@@ -149,5 +153,10 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <p align="center">
 <a href="https://instagram.com/tech.anupam"><img src="https://img.shields.io/badge/@tech.anupam-0891B2?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://anupambuilds.store"><img src="https://img.shields.io/badge/anupambuilds.store-0891B2?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"></a>
-<img src="https://img.shields.io/badge/g1.ax-0891B2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+<img src="https://img.shields.io/badge/g1.ax-0891B2?style=flat-square&logo=discord&logoColor=white" alt="Discord"> <p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=tech-anupam&style=for-the-badge&color=22D3EE"
+    alt="Profile Views"
+  />
+</p>
 </p>
