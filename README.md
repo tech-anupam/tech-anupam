@@ -1,5 +1,5 @@
-<h1 align="center">Anupam Jha</h1>
-<h3 align="center">aka AkaTriggered / G1ax — Delhi NCR, India</h3>
+<h1 align="center">TECH WITH ANUPAM</h1>
+<h3 align="center">Anupam Jha — aka AkaTriggered / G1ax — Delhi NCR, India</h3>
 
 <p align="center"><i>Software developer. Freelancer. Building more than I sleep.</i></p>
 
@@ -11,42 +11,28 @@ Open for hire. AI-heavy stack knowledge if that's what your project needs.
 
 <br>
 
-## What I've shipped
-
-**Android**
-- [OyeSuno](https://github.com/tech-anupam/OyeSuno)
-- [Googlify](https://github.com/tech-anupam/Googlify)
-- [BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu)
-- [QuickQR](https://github.com/tech-anupam/QuickQR)
-
-**Desktop**
-- [BoardMyDelulu — PC](https://github.com/tech-anupam/BoardMyDelulu-PC)
-
-**Discord**
-- [ScreamBTD Theme](https://github.com/tech-anupam/ScreamBTD-Theme)
-
-**Minecraft**
-- [G1ax Crystal Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer) — 73,000+ downloads on [Modrinth](https://modrinth.com/mod/g1axcrystaloptimizer)
-- [G1axClient](https://modrinth.com/mod/g1axclient)
-
-**Tools**
-- [RupeeTrail](https://github.com/tech-anupam/RupeeTrail)
-
-<br>
-
 ## Stack
 
 <p>
 <img src="https://img.shields.io/badge/React_19-0891B2?style=flat-square&logo=react&logoColor=white" alt="React 19">
 <img src="https://img.shields.io/badge/Vite-0891B2?style=flat-square&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/TailwindCSS_v4-0891B2?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS v4">
-<img src="https://img.shields.io/badge/Hono.js-0891B2?style=flat-square&logo=hono&logoColor=white" alt="Hono.js">
-<img src="https://img.shields.io/badge/Turso-0891B2?style=flat-square&logo=turso&logoColor=white" alt="Turso">
-<img src="https://img.shields.io/badge/Clerk-0891B2?style=flat-square&logo=clerk&logoColor=white" alt="Clerk">
-<img src="https://img.shields.io/badge/Cloudflare_Workers-0891B2?style=flat-square&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers">
+<img src="https://img.shields.io/badge/Hono.js-0891B2?style=flat-square" alt="Hono.js">
+<img src="https://img.shields.io/badge/Turso-0891B2?style=flat-square" alt="Turso">
+<img src="https://img.shields.io/badge/Clerk-0891B2?style=flat-square" alt="Clerk">
+<img src="https://img.shields.io/badge/Cloudflare-0891B2?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
 <img src="https://img.shields.io/badge/Supabase-0891B2?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
 <img src="https://img.shields.io/badge/Node.js-0891B2?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
+
+<br>
+
+## All Repos (auto-updated, 80+ and counting)
+
+Grouped by language, pulled live from the GitHub API. No curated shortlist — this is everything.
+
+<!--START_SECTION:all-repos-->
+<!--END_SECTION:all-repos-->
 
 <br>
 
@@ -64,7 +50,7 @@ Building a lot of this in the open, on my own time. If something here helped you
 
 <p>
 <a href="https://anupambuilds.store/donate"><img src="https://img.shields.io/badge/Support_future_projects-0891B2?style=flat-square&logo=kofi&logoColor=white" alt="Donate"></a>
-<a href="https://anupambuilds.store/about"><img src="https://img.shields.io/badge/About_me-0891B2?style=flat-square&logo=aboutdotme&logoColor=white" alt="About"></a>
+<a href="https://anupambuilds.store/about"><img src="https://img.shields.io/badge/About_me-0891B2?style=flat-square" alt="About"></a>
 </p>
 
 <br>
@@ -76,3 +62,7 @@ Building a lot of this in the open, on my own time. If something here helped you
 <a href="https://anupambuilds.store"><img src="https://img.shields.io/badge/anupambuilds.store-0891B2?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"></a>
 <img src="https://img.shields.io/badge/g1.ax-0891B2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
 </p>
+
+<br>
+
+<sub>Repo list last synced: <!--START_SECTION:last-updated--><!--END_SECTION:last-updated--></sub>

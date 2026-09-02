@@ -1,15 +1,12 @@
 // scripts/update-readme.js
-// Fetches your most recently pushed repos, counts commits in the
-// last 30 days for each, and writes a table into README.md between
-// <!--START_SECTION:recent-repos--> and <!--END_SECTION:recent-repos-->
+// Fetches every public, non-fork repo, groups by primary language,
+// and writes it into README.md between the marker comments.
 
 const fs = require("fs");
 
-const USERNAME = "AkaTriggered";
+const USERNAME = "tech-anupam"; // GitHub account this profile README lives on
 const TOKEN = process.env.GITHUB_TOKEN;
 const README_PATH = "README.md";
-const REPO_LIMIT = 6;
-const SINCE_DAYS = 30;
 
 const headers = {
   Authorization: `token ${TOKEN}`,
@@ -23,46 +20,50 @@ async function ghFetch(url) {
   return res.json();
 }
 
-async function getTopRepos() {
-  const repos = await ghFetch(
-    `https://api.github.com/users/${USERNAME}/repos?sort=pushed&direction=desc&per_page=${REPO_LIMIT}&type=owner`
-  );
-  return repos.filter((r) => !r.fork);
-}
-
-async function getCommitCount(repoName) {
-  const since = new Date(Date.now() - SINCE_DAYS * 24 * 60 * 60 * 1000).toISOString();
-  try {
-    const commits = await ghFetch(
-      `https://api.github.com/repos/${USERNAME}/${repoName}/commits?author=${USERNAME}&since=${since}&per_page=100`
+async function getAllRepos() {
+  let page = 1;
+  let all = [];
+  while (true) {
+    const batch = await ghFetch(
+      `https://api.github.com/users/${USERNAME}/repos?per_page=100&page=${page}&type=owner&sort=pushed&direction=desc`
     );
-    return Array.isArray(commits) ? commits.length : 0;
-  } catch {
-    return 0;
+    all = all.concat(batch);
+    if (batch.length < 100) break;
+    page++;
   }
+  return all.filter((r) => !r.fork);
 }
 
-function timeAgo(dateStr) {
-  const diffMs = Date.now() - new Date(dateStr).getTime();
-  const days = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-  if (days === 0) return "today";
-  if (days === 1) return "1 day ago";
-  return `${days} days ago`;
-}
-
-async function buildTable() {
-  const repos = await getTopRepos();
-  const rows = [];
-
+function groupByLanguage(repos) {
+  const groups = {};
   for (const repo of repos) {
-    const commitCount = await getCommitCount(repo.name);
-    rows.push(
-      `| [${repo.name}](${repo.html_url}) | ${repo.language || "—"} | ${commitCount} | ${timeAgo(repo.pushed_at)} |`
-    );
+    const lang = repo.language || "Other";
+    if (!groups[lang]) groups[lang] = [];
+    groups[lang].push(repo);
+  }
+  // Sort languages by repo count, descending
+  return Object.entries(groups).sort((a, b) => b[1].length - a[1].length);
+}
+
+function buildSection(repos) {
+  const grouped = groupByLanguage(repos);
+  const lines = [`**${repos.length} repositories**`, ""];
+
+  for (const [lang, repoList] of grouped) {
+    lines.push(`<details>`);
+    lines.push(`<summary><b>${lang}</b> (${repoList.length})</summary>`);
+    lines.push("");
+    for (const repo of repoList) {
+      const stars = repo.stargazers_count > 0 ? ` — ★ ${repo.stargazers_count}` : "";
+      const desc = repo.description ? ` — ${repo.description}` : "";
+      lines.push(`- [${repo.name}](${repo.html_url})${desc}${stars}`);
+    }
+    lines.push("");
+    lines.push(`</details>`);
+    lines.push("");
   }
 
-  const header = "| Repo | Language | Commits (30d) | Last Push |\n|---|---|---|---|";
-  return [header, ...rows].join("\n");
+  return lines.join("\n").trim();
 }
 
 function replaceSection(content, marker, replacement) {
@@ -74,8 +75,9 @@ function replaceSection(content, marker, replacement) {
 
 async function main() {
   let readme = fs.readFileSync(README_PATH, "utf8");
-  const table = await buildTable();
-  readme = replaceSection(readme, "recent-repos", table);
+  const repos = await getAllRepos();
+
+  readme = replaceSection(readme, "all-repos", buildSection(repos));
 
   const timestamp = new Date().toISOString().slice(0, 16).replace("T", " ") + " UTC";
   readme = replaceSection(readme, "last-updated", timestamp);
