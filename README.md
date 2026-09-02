@@ -38,11 +38,12 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 
 ## Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tech-anupam&theme=react-dark&bg_color=0d1117&color=22D3EE&line=22D3EE&point=4ADE80&hide_border=true&area=true" alt="Contribution activity">
 </p>
-
-<br>
 
 ## Elsewhere
 
