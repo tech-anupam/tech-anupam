@@ -22,14 +22,13 @@
 
 <br>
 
-I build things end to end — Android apps, desktop tools, Minecraft mods, and the odd Discord theme when I'm bored at 2am. Freelance work on the side, tech content on top of that. If it compiles, I've probably shipped it.
+I build things end to end  Android apps, desktop tools, Minecraft mods, and the odd Discord theme when I'm bored at 2am. Freelance work on the side, tech content on top of that. If it compiles, I've probably shipped it.
 
 Open for hire. AI-heavy stack knowledge if that's what your project needs.
 
 <br>
 
-## All Repos (auto-updated, 80+ and counting)
-
+## My All Projects 
 Grouped by language, pulled live from the GitHub API. No curated shortlist — this is everything.
 
 <!--START_SECTION:all-repos-->
