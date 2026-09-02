@@ -3,17 +3,7 @@
 
 <p align="center"><i>Software developer. Freelancer. Building more than I sleep.</i></p>
 
-<br>
-
-I build things end to end — Android apps, desktop tools, Minecraft mods, and the odd Discord theme when I'm bored at 2am. Freelance work on the side, tech content on top of that. If it compiles, I've probably shipped it.
-
-Open for hire. AI-heavy stack knowledge if that's what your project needs.
-
-<br>
-
-## Stack
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/React_19-0891B2?style=flat-square&logo=react&logoColor=white" alt="React 19">
 <img src="https://img.shields.io/badge/Vite-0891B2?style=flat-square&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/TailwindCSS_v4-0891B2?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS v4">
@@ -24,6 +14,17 @@ Open for hire. AI-heavy stack knowledge if that's what your project needs.
 <img src="https://img.shields.io/badge/Supabase-0891B2?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
 <img src="https://img.shields.io/badge/Node.js-0891B2?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
+
+<p align="center">
+<a href="https://anupambuilds.store/donate"><img src="https://img.shields.io/badge/Support_future_projects-4ADE80?style=flat-square&logo=kofi&logoColor=black" alt="Donate"></a>
+<a href="https://anupambuilds.store/about"><img src="https://img.shields.io/badge/About_me-0891B2?style=flat-square" alt="About"></a>
+</p>
+
+<br>
+
+I build things end to end — Android apps, desktop tools, Minecraft mods, and the odd Discord theme when I'm bored at 2am. Freelance work on the side, tech content on top of that. If it compiles, I've probably shipped it.
+
+Open for hire. AI-heavy stack knowledge if that's what your project needs.
 
 <br>
 
@@ -44,25 +45,10 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 
 <br>
 
-## Support
-
-Building a lot of this in the open, on my own time. If something here helped you or you just want future projects to happen faster:
-
-<p>
-<a href="https://anupambuilds.store/donate"><img src="https://img.shields.io/badge/Support_future_projects-0891B2?style=flat-square&logo=kofi&logoColor=white" alt="Donate"></a>
-<a href="https://anupambuilds.store/about"><img src="https://img.shields.io/badge/About_me-0891B2?style=flat-square" alt="About"></a>
-</p>
-
-<br>
-
 ## Elsewhere
 
-<p>
+<p align="center">
 <a href="https://instagram.com/tech.anupam"><img src="https://img.shields.io/badge/@tech.anupam-0891B2?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://anupambuilds.store"><img src="https://img.shields.io/badge/anupambuilds.store-0891B2?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"></a>
 <img src="https://img.shields.io/badge/g1.ax-0891B2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
 </p>
-
-<br>
-
-<sub>Repo list last synced: <!--START_SECTION:last-updated--><!--END_SECTION:last-updated--></sub>
