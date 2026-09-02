@@ -1,5 +1,5 @@
 <h1 align="center">TECH WITH ANUPAM</h1>
-<h3 align="center">Anupam Jha — aka AkaTriggered / G1ax — Delhi NCR, India</h3>
+<h3 align="center">Anupam Jha | New Delhi, India</h3>
 
 <p align="center"><i>Software developer. Freelancer. Building more than I sleep.</i></p>
 
