@@ -37,8 +37,8 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <details>
 <summary><b>Java</b> (19)</summary>
 
-- [G1axClientFabric](https://github.com/tech-anupam/G1axClientFabric) — A premium, fully-original Minecraft client for Fabric 1.21.11  modern desktop-style UI, buttery-smooth animations, powerful FPS-boosting modules, and a fully draggable HUD editor.
 - [G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer) — G1axCrystalOptimizer optimizes end crystal placement and breaking with efficient client-side processing, reducing perceived delay and delivering a faster, smoother Crystal PvP experience. — ★ 2
+- [G1axClientFabric](https://github.com/tech-anupam/G1axClientFabric) — A premium, fully-original Minecraft client for Fabric 1.21.11  modern desktop-style UI, buttery-smooth animations, powerful FPS-boosting modules, and a fully draggable HUD editor.
 - [G1axMinecraftAssistant](https://github.com/tech-anupam/G1axMinecraftAssistant) — An autonomous, tool-using AI agent client mod for Minecraft 1.21.x Fabric. G1axMinecraftAssistant brings advanced reasoning capability directly inside your client, enabling game state awareness, real recipe calculation, mod config editing, performance analysis, and automated optimization.
 - [G1axTierlistPlaceholderExpansion](https://github.com/tech-anupam/G1axTierlistPlaceholderExpansion) — PlaceholderAPI expansion that displays [MCTiers](https://mctiers.com) tier rankings as colored prefixes in Minecraft.
 - [G1axFixer](https://github.com/tech-anupam/G1axFixer) — G1axFixer is a client-side minecraft fabric mod designed to eliminate common crashes, lag spikes, and freezes caused by resource packs while providing powerful performance optimizations. It's essential for players using multiple resource packs, modpacks, or playing on servers with custom resources.
@@ -133,11 +133,11 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 ## Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1791](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1791) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 🚀 Published release [BoardMyDelulu v1.0.0](https://github.com/tech-anupam/BoardMyDelulu-PC/releases/tag/v1.0.0) in [tech-anupam/BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC)
-3. 🚀 Published release [BoardMyDelulu Debug Version (UNSIGNED RELEASE)](https://github.com/tech-anupam/BoardMyDelulu/releases/tag/apk) in [tech-anupam/BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu)
-4. 🚀 Published release [Googlify APK/EXTENSION RELEASE](https://github.com/tech-anupam/Googlify/releases/tag/release) in [tech-anupam/Googlify](https://github.com/tech-anupam/Googlify)
-5. 🗣 Commented on [#10](https://github.com/tech-anupam/G1ax-Crystal-Optimizer/issues/10#issuecomment-5448659741) in [tech-anupam/G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer)
+1. 🚀 Published release [G1axCrystal Optimizer - V1.5.0 ( LATEST FIXED VERSION)](https://github.com/tech-anupam/G1ax-Crystal-Optimizer/releases/tag/v1.0.5-fix) in [tech-anupam/G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer)
+2. 💪 Opened PR [#1791](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1791) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. 🚀 Published release [BoardMyDelulu v1.0.0](https://github.com/tech-anupam/BoardMyDelulu-PC/releases/tag/v1.0.0) in [tech-anupam/BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC)
+4. 🚀 Published release [BoardMyDelulu Debug Version (UNSIGNED RELEASE)](https://github.com/tech-anupam/BoardMyDelulu/releases/tag/apk) in [tech-anupam/BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu)
+5. 🚀 Published release [Googlify APK/EXTENSION RELEASE](https://github.com/tech-anupam/Googlify/releases/tag/release) in [tech-anupam/Googlify](https://github.com/tech-anupam/Googlify)
 <!--END_SECTION:activity-->
 
 
