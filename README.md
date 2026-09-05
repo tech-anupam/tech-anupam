@@ -32,7 +32,7 @@ Open for hire. AI-heavy stack knowledge if that's what your project needs.
 Grouped by language, pulled live from the GitHub API. No curated shortlist — this is everything.
 
 <!--START_SECTION:all-repos-->
-**45 repositories**
+**46 repositories**
 
 <details>
 <summary><b>Java</b> (19)</summary>
@@ -63,7 +63,7 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <summary><b>Kotlin</b> (6)</summary>
 
 - [BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC) — The only meme soundboard software you need on PC. Instant viral Indian & global meme pads, custom global hotkeys, favorites deck shuffle, and zero ads.
-- [BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu) — BoardMyDelulu: The only soundboard app you need. Instant viral Indian and global meme audio pads with zero bullshit and zero ads. — ★ 2
+- [BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu) — BoardMyDelulu: The only soundboard app you need. Instant viral Indian and global meme audio pads with zero bullshit and zero ads. — ★ 1
 - [Googlify](https://github.com/tech-anupam/Googlify) — Generate unlimited unique Gmail addresses from one account no sign-ups, no new inboxes. Works for AI tools, free trials, and anything else. — ★ 1
 - [OyeSuno](https://github.com/tech-anupam/OyeSuno) — OyeSuno is an all-in-one smart audio recording studio, sound library, and waveform editor built for Android.
 - [QuickQR](https://github.com/tech-anupam/QuickQR) — Most QR generators produce plain, rigid, black-and-white pixel grids. QuickQR transforms QR code creation into a Canva-style creative design studio built natively for Android. It gives you total creative control over the visual appearance, shapes, colors, badges, and layout of your QR codes while ensuring they remain 100% functional and scannable.
@@ -96,7 +96,7 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <details>
 <summary><b>Python</b> (3)</summary>
 
-- [awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem) — A curated, auto-updating collection of the most useful AI Agents, MCP Servers, Agent Skills, AI Plugins, and Frameworks.  — ★ 1
+- [awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem) — A curated, auto-updating collection of the most useful AI Agents, MCP Servers, Agent Skills, AI Plugins, and Frameworks. 
 - [G1axBluetoothJammer](https://github.com/tech-anupam/G1axBluetoothJammer) — Auto-scan + auto-flood Bluetooth jammer for Termux (Android). Scans all nearby classic & BLE devices and simultaneously floods them using `l2ping` to disrupt their connections — for personal resort/property security. — ★ 2
 - [Anupam-OSINT](https://github.com/tech-anupam/Anupam-OSINT) — One framework. Many traces. Deep OSINT.
 
@@ -124,6 +124,13 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 
 - [IGxDonationCampaign](https://github.com/tech-anupam/IGxDonationCampaign) — free followers for insta user check link
 - [public-text-editor](https://github.com/tech-anupam/public-text-editor) — LIVE DEMO
+
+</details>
+
+<details>
+<summary><b>PowerShell</b> (1)</summary>
+
+- [engineering-skills](https://github.com/tech-anupam/engineering-skills) — Agent skills built from my real development experience, turned into practical knowledge that AI agents can understand and use.
 
 </details>
 <!--END_SECTION:all-repos-->
