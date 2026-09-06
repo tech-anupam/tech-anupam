@@ -37,6 +37,7 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <details>
 <summary><b>Java</b> (19)</summary>
 
+- [G1axSpearOptimizer](https://github.com/tech-anupam/G1axSpearOptimizer) — A lightweight client-side Minecraft mod designed to make spear combat feel more responsive with visual charge feedback, damage previews, and smoother combat presentation.
 - [G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer) — G1axCrystalOptimizer optimizes end crystal placement and breaking with efficient client-side processing, reducing perceived delay and delivering a faster, smoother Crystal PvP experience. — ★ 2
 - [G1axClientFabric](https://github.com/tech-anupam/G1axClientFabric) — A premium, fully-original Minecraft client for Fabric 1.21.11  modern desktop-style UI, buttery-smooth animations, powerful FPS-boosting modules, and a fully draggable HUD editor.
 - [G1axMinecraftAssistant](https://github.com/tech-anupam/G1axMinecraftAssistant) — An autonomous, tool-using AI agent client mod for Minecraft 1.21.x Fabric. G1axMinecraftAssistant brings advanced reasoning capability directly inside your client, enabling game state awareness, real recipe calculation, mod config editing, performance analysis, and automated optimization.
@@ -47,7 +48,6 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 - [G1axBowOptimizer](https://github.com/tech-anupam/G1axBowOptimizer) — G1axBowOptimizer eliminates the client-side delay caused by server round-trip times when using bows and crossbows
 - [G1axScroll](https://github.com/tech-anupam/G1axScroll) —  A lightweight Minecraft client-side mod that converts mouse scroll input into rapid clicks
 - [AltShield](https://github.com/tech-anupam/AltShield) — A plugin to limit alternate accounts by IP.
-- [G1axSpearOptimizer](https://github.com/tech-anupam/G1axSpearOptimizer) — A performance-optimized Minecraft mod that makes spear combat smoother, more responsive, and more enjoyable. Experience true combat prediction and optimization with zero lag.
 - [G1axNameHistory](https://github.com/tech-anupam/G1axNameHistory) — A lightweight, client-side Fabric mod for Minecraft 1.21+ that displays player name history and UUIDs in chat.
 - [G1axPracticeBot](https://github.com/tech-anupam/G1axPracticeBot) — A powerful Minecraft plugin that spawns customizable practice bots for crystal PvP training. Perfect for servers wanting to provide players with AI opponents to practice their combat skills. — ★ 2
 - [G1axWorldGenerator](https://github.com/tech-anupam/G1axWorldGenerator) — G1axWorldGenerator is an open-source Minecraft world generation plugin    designed to create biome-aware, layered terrains with realistic hills,    valleys, and block depth structures. Perfect for servers that want    custom procedural landscapes beyond default world generation. — ★ 1
@@ -60,6 +60,18 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 </details>
 
 <details>
+<summary><b>JavaScript</b> (6)</summary>
+
+- [awesome-project-ideas](https://github.com/tech-anupam/awesome-project-ideas) — A large starting library of buildable ideas organised around real users, public information, operational gaps, and open-source opportunities. Start with a category, investigate the problem, compare existing work, and make the first version useful.
+- [tech-anupam](https://github.com/tech-anupam/tech-anupam) — a beautiful github profile repo 
+- [OSINTFORIND](https://github.com/tech-anupam/OSINTFORIND) — A premium, high-performance, and mobile-first open-source intelligence (OSINT) helper console tailored for investigative analysis, domain mapping, profile correlation, and advanced dork compiling
+- [RupeeTrail](https://github.com/tech-anupam/RupeeTrail) — Full-featured financial management platform with 100+ features for personal finance, freelancing, hosting businesses, and companies.
+- [JobVibe](https://github.com/tech-anupam/JobVibe)
+- [Minecraft-Tier-List-Bot](https://github.com/tech-anupam/Minecraft-Tier-List-Bot) — A Website For Displaying Tiers For Minecraft Players With Help Of Discord Bot 
+
+</details>
+
+<details>
 <summary><b>Kotlin</b> (6)</summary>
 
 - [BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC) — The only meme soundboard software you need on PC. Instant viral Indian & global meme pads, custom global hotkeys, favorites deck shuffle, and zero ads.
@@ -68,17 +80,6 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 - [OyeSuno](https://github.com/tech-anupam/OyeSuno) — OyeSuno is an all-in-one smart audio recording studio, sound library, and waveform editor built for Android.
 - [QuickQR](https://github.com/tech-anupam/QuickQR) — Most QR generators produce plain, rigid, black-and-white pixel grids. QuickQR transforms QR code creation into a Canva-style creative design studio built natively for Android. It gives you total creative control over the visual appearance, shapes, colors, badges, and layout of your QR codes while ensuring they remain 100% functional and scannable.
 - [AndroTrackKit](https://github.com/tech-anupam/AndroTrackKit) — educational surveillance tool  — ★ 1
-
-</details>
-
-<details>
-<summary><b>JavaScript</b> (5)</summary>
-
-- [tech-anupam](https://github.com/tech-anupam/tech-anupam) — a beautiful github profile repo 
-- [OSINTFORIND](https://github.com/tech-anupam/OSINTFORIND) — A premium, high-performance, and mobile-first open-source intelligence (OSINT) helper console tailored for investigative analysis, domain mapping, profile correlation, and advanced dork compiling
-- [RupeeTrail](https://github.com/tech-anupam/RupeeTrail) — Full-featured financial management platform with 100+ features for personal finance, freelancing, hosting businesses, and companies.
-- [JobVibe](https://github.com/tech-anupam/JobVibe)
-- [Minecraft-Tier-List-Bot](https://github.com/tech-anupam/Minecraft-Tier-List-Bot) — A Website For Displaying Tiers For Minecraft Players With Help Of Discord Bot 
 
 </details>
 
@@ -120,17 +121,16 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 </details>
 
 <details>
-<summary><b>HTML</b> (2)</summary>
+<summary><b>PowerShell</b> (1)</summary>
 
-- [IGxDonationCampaign](https://github.com/tech-anupam/IGxDonationCampaign) — free followers for insta user check link
-- [public-text-editor](https://github.com/tech-anupam/public-text-editor) — LIVE DEMO
+- [engineering-skills](https://github.com/tech-anupam/engineering-skills) — Agent skills built from my real development experience, turned into practical knowledge that AI agents can understand and use.
 
 </details>
 
 <details>
-<summary><b>PowerShell</b> (1)</summary>
+<summary><b>HTML</b> (1)</summary>
 
-- [engineering-skills](https://github.com/tech-anupam/engineering-skills) — Agent skills built from my real development experience, turned into practical knowledge that AI agents can understand and use.
+- [public-text-editor](https://github.com/tech-anupam/public-text-editor) — LIVE DEMO
 
 </details>
 <!--END_SECTION:all-repos-->
