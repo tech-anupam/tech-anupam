@@ -62,8 +62,8 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <details>
 <summary><b>JavaScript</b> (6)</summary>
 
-- [tech-anupam](https://github.com/tech-anupam/tech-anupam) — a beautiful github profile repo 
 - [awesome-project-ideas](https://github.com/tech-anupam/awesome-project-ideas) — A large starting library of buildable ideas organised around real users, public information, operational gaps, and open-source opportunities. Start with a category, investigate the problem, compare existing work, and make the first version useful.
+- [tech-anupam](https://github.com/tech-anupam/tech-anupam) — a beautiful github profile repo 
 - [OSINTFORIND](https://github.com/tech-anupam/OSINTFORIND) — A premium, high-performance, and mobile-first open-source intelligence (OSINT) helper console tailored for investigative analysis, domain mapping, profile correlation, and advanced dork compiling
 - [RupeeTrail](https://github.com/tech-anupam/RupeeTrail) — Full-featured financial management platform with 100+ features for personal finance, freelancing, hosting businesses, and companies.
 - [JobVibe](https://github.com/tech-anupam/JobVibe)
