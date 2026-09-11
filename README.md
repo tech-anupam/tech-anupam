@@ -32,7 +32,7 @@ Open for hire. AI-heavy stack knowledge if that's what your project needs.
 Grouped by language, pulled live from the GitHub API. No curated shortlist — this is everything.
 
 <!--START_SECTION:all-repos-->
-**46 repositories**
+**47 repositories**
 
 <details>
 <summary><b>Java</b> (19)</summary>
@@ -60,6 +60,19 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 </details>
 
 <details>
+<summary><b>Kotlin</b> (7)</summary>
+
+- [LowYourTone](https://github.com/tech-anupam/LowYourTone) — LowYourTone is an open-source, 100% offline, privacy-first Android application that triggers custom device actions and automations using on-device voice wake words.
+- [BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC) — The only meme soundboard software you need on PC. Instant viral Indian & global meme pads, custom global hotkeys, favorites deck shuffle, and zero ads.
+- [BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu) — BoardMyDelulu: The only soundboard app you need. Instant viral Indian and global meme audio pads with zero bullshit and zero ads. — ★ 1
+- [Googlify](https://github.com/tech-anupam/Googlify) — Generate unlimited unique Gmail addresses from one account no sign-ups, no new inboxes. Works for AI tools, free trials, and anything else. — ★ 1
+- [OyeSuno](https://github.com/tech-anupam/OyeSuno) — OyeSuno is an all-in-one smart audio recording studio, sound library, and waveform editor built for Android.
+- [QuickQR](https://github.com/tech-anupam/QuickQR) — Most QR generators produce plain, rigid, black-and-white pixel grids. QuickQR transforms QR code creation into a Canva-style creative design studio built natively for Android. It gives you total creative control over the visual appearance, shapes, colors, badges, and layout of your QR codes while ensuring they remain 100% functional and scannable.
+- [AndroTrackKit](https://github.com/tech-anupam/AndroTrackKit) — educational surveillance tool  — ★ 1
+
+</details>
+
+<details>
 <summary><b>JavaScript</b> (6)</summary>
 
 - [tech-anupam](https://github.com/tech-anupam/tech-anupam) — a beautiful github profile repo 
@@ -68,18 +81,6 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 - [RupeeTrail](https://github.com/tech-anupam/RupeeTrail) — Full-featured financial management platform with 100+ features for personal finance, freelancing, hosting businesses, and companies.
 - [JobVibe](https://github.com/tech-anupam/JobVibe)
 - [Minecraft-Tier-List-Bot](https://github.com/tech-anupam/Minecraft-Tier-List-Bot) — A Website For Displaying Tiers For Minecraft Players With Help Of Discord Bot 
-
-</details>
-
-<details>
-<summary><b>Kotlin</b> (6)</summary>
-
-- [BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC) — The only meme soundboard software you need on PC. Instant viral Indian & global meme pads, custom global hotkeys, favorites deck shuffle, and zero ads.
-- [BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu) — BoardMyDelulu: The only soundboard app you need. Instant viral Indian and global meme audio pads with zero bullshit and zero ads. — ★ 1
-- [Googlify](https://github.com/tech-anupam/Googlify) — Generate unlimited unique Gmail addresses from one account no sign-ups, no new inboxes. Works for AI tools, free trials, and anything else. — ★ 1
-- [OyeSuno](https://github.com/tech-anupam/OyeSuno) — OyeSuno is an all-in-one smart audio recording studio, sound library, and waveform editor built for Android.
-- [QuickQR](https://github.com/tech-anupam/QuickQR) — Most QR generators produce plain, rigid, black-and-white pixel grids. QuickQR transforms QR code creation into a Canva-style creative design studio built natively for Android. It gives you total creative control over the visual appearance, shapes, colors, badges, and layout of your QR codes while ensuring they remain 100% functional and scannable.
-- [AndroTrackKit](https://github.com/tech-anupam/AndroTrackKit) — educational surveillance tool  — ★ 1
 
 </details>
 
@@ -140,11 +141,11 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 ## Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [G1axCrystal Optimizer - V1.5.0 ( LATEST FIXED VERSION)](https://github.com/tech-anupam/G1ax-Crystal-Optimizer/releases/tag/v1.0.5-fix) in [tech-anupam/G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer)
-2. 💪 Opened PR [#1791](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1791) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-3. 🚀 Published release [BoardMyDelulu v1.0.0](https://github.com/tech-anupam/BoardMyDelulu-PC/releases/tag/v1.0.0) in [tech-anupam/BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC)
-4. 🚀 Published release [BoardMyDelulu Debug Version (UNSIGNED RELEASE)](https://github.com/tech-anupam/BoardMyDelulu/releases/tag/apk) in [tech-anupam/BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu)
-5. 🚀 Published release [Googlify APK/EXTENSION RELEASE](https://github.com/tech-anupam/Googlify/releases/tag/release) in [tech-anupam/Googlify](https://github.com/tech-anupam/Googlify)
+1. 🚀 Published release [Download APK](https://github.com/tech-anupam/LowYourTone/releases/tag/v1.0.0) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
+2. 🚀 Published release [G1axCrystal Optimizer - V1.5.0 ( LATEST FIXED VERSION)](https://github.com/tech-anupam/G1ax-Crystal-Optimizer/releases/tag/v1.0.5-fix) in [tech-anupam/G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer)
+3. 💪 Opened PR [#1791](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1791) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+4. 🚀 Published release [BoardMyDelulu v1.0.0](https://github.com/tech-anupam/BoardMyDelulu-PC/releases/tag/v1.0.0) in [tech-anupam/BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC)
+5. 🚀 Published release [BoardMyDelulu Debug Version (UNSIGNED RELEASE)](https://github.com/tech-anupam/BoardMyDelulu/releases/tag/apk) in [tech-anupam/BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu)
 <!--END_SECTION:activity-->
 
 
