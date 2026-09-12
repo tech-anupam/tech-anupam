@@ -141,11 +141,11 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 ## Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1791](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1791) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 🚀 Published release [Download APK](https://github.com/tech-anupam/LowYourTone/releases/tag/v1.0.0) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
-3. 🚀 Published release [G1axCrystal Optimizer - V1.5.0 ( LATEST FIXED VERSION)](https://github.com/tech-anupam/G1ax-Crystal-Optimizer/releases/tag/v1.0.5-fix) in [tech-anupam/G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer)
-4. 💪 Opened PR [#1791](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1791) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-5. 🚀 Published release [BoardMyDelulu v1.0.0](https://github.com/tech-anupam/BoardMyDelulu-PC/releases/tag/v1.0.0) in [tech-anupam/BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC)
+1. 🎉 Merged PR [#4](https://github.com/tech-anupam/LowYourTone/pull/4) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
+2. 💪 Opened PR [#4](https://github.com/tech-anupam/LowYourTone/pull/4) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
+3. 🎉 Merged PR [#3](https://github.com/tech-anupam/LowYourTone/pull/3) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
+4. 💪 Opened PR [#3](https://github.com/tech-anupam/LowYourTone/pull/3) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
+5. 🎉 Merged PR [#2](https://github.com/tech-anupam/LowYourTone/pull/2) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
 <!--END_SECTION:activity-->
 
 
