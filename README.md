@@ -37,8 +37,8 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <details>
 <summary><b>Java</b> (19)</summary>
 
-- [G1axSpearOptimizer](https://github.com/tech-anupam/G1axSpearOptimizer) — A lightweight client-side Minecraft mod designed to make spear combat feel more responsive with visual charge feedback, damage previews, and smoother combat presentation.
 - [G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer) — G1axCrystalOptimizer optimizes end crystal placement and breaking with efficient client-side processing, reducing perceived delay and delivering a faster, smoother Crystal PvP experience. — ★ 2
+- [G1axSpearOptimizer](https://github.com/tech-anupam/G1axSpearOptimizer) — A lightweight client-side Minecraft mod designed to make spear combat feel more responsive with visual charge feedback, damage previews, and smoother combat presentation.
 - [G1axClientFabric](https://github.com/tech-anupam/G1axClientFabric) — A premium, fully-original Minecraft client for Fabric 1.21.11  modern desktop-style UI, buttery-smooth animations, powerful FPS-boosting modules, and a fully draggable HUD editor.
 - [G1axMinecraftAssistant](https://github.com/tech-anupam/G1axMinecraftAssistant) — An autonomous, tool-using AI agent client mod for Minecraft 1.21.x Fabric. G1axMinecraftAssistant brings advanced reasoning capability directly inside your client, enabling game state awareness, real recipe calculation, mod config editing, performance analysis, and automated optimization.
 - [G1axTierlistPlaceholderExpansion](https://github.com/tech-anupam/G1axTierlistPlaceholderExpansion) — PlaceholderAPI expansion that displays [MCTiers](https://mctiers.com) tier rankings as colored prefixes in Minecraft.
@@ -75,8 +75,8 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <details>
 <summary><b>JavaScript</b> (6)</summary>
 
-- [tech-anupam](https://github.com/tech-anupam/tech-anupam) — a beautiful github profile repo 
 - [awesome-project-ideas](https://github.com/tech-anupam/awesome-project-ideas) — A large starting library of buildable ideas organised around real users, public information, operational gaps, and open-source opportunities. Start with a category, investigate the problem, compare existing work, and make the first version useful.
+- [tech-anupam](https://github.com/tech-anupam/tech-anupam) — a beautiful github profile repo 
 - [OSINTFORIND](https://github.com/tech-anupam/OSINTFORIND) — A premium, high-performance, and mobile-first open-source intelligence (OSINT) helper console tailored for investigative analysis, domain mapping, profile correlation, and advanced dork compiling
 - [RupeeTrail](https://github.com/tech-anupam/RupeeTrail) — Full-featured financial management platform with 100+ features for personal finance, freelancing, hosting businesses, and companies.
 - [JobVibe](https://github.com/tech-anupam/JobVibe)
@@ -141,11 +141,11 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 ## Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/tech-anupam/LowYourTone/pull/4) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
-2. 💪 Opened PR [#4](https://github.com/tech-anupam/LowYourTone/pull/4) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
-3. 🎉 Merged PR [#3](https://github.com/tech-anupam/LowYourTone/pull/3) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
-4. 💪 Opened PR [#3](https://github.com/tech-anupam/LowYourTone/pull/3) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
-5. 🎉 Merged PR [#2](https://github.com/tech-anupam/LowYourTone/pull/2) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
+1. 🚀 Published release [v1.0.6](https://github.com/tech-anupam/G1ax-Crystal-Optimizer/releases/tag/v1.0.6) in [tech-anupam/G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer)
+2. 🎉 Merged PR [#4](https://github.com/tech-anupam/LowYourTone/pull/4) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
+3. 💪 Opened PR [#4](https://github.com/tech-anupam/LowYourTone/pull/4) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
+4. 🎉 Merged PR [#3](https://github.com/tech-anupam/LowYourTone/pull/3) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
+5. 💪 Opened PR [#3](https://github.com/tech-anupam/LowYourTone/pull/3) in [tech-anupam/LowYourTone](https://github.com/tech-anupam/LowYourTone)
 <!--END_SECTION:activity-->
 
 
