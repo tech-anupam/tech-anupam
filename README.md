@@ -73,18 +73,6 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 </details>
 
 <details>
-<summary><b>Other</b> (6)</summary>
-
-- [website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill) — Find businesses that need a new website (or a rebuild of the one they have), and get a ready-to-send outreach list  automatically.
-- [tech.anupam](https://github.com/tech-anupam/tech.anupam)
-- [list-of-all-discord-repo](https://github.com/tech-anupam/list-of-all-discord-repo) — List of all source code containing discord bot,bot,discord-bot tag
-- [Community-Minecraft-Skripts](https://github.com/tech-anupam/Community-Minecraft-Skripts) — ★ 1
-- [MemeGen](https://github.com/tech-anupam/MemeGen) — Meme Generator Web App that combines Canva-like editing features with Giphy integration and an advanced features.
-- [discordraiderbytriggered](https://github.com/tech-anupam/discordraiderbytriggered) — Discord Ultra Raider  Customizable Message And Commands!
-
-</details>
-
-<details>
 <summary><b>JavaScript</b> (6)</summary>
 
 - [tech-anupam](https://github.com/tech-anupam/tech-anupam) — a beautiful github profile repo 
@@ -93,6 +81,18 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 - [RupeeTrail](https://github.com/tech-anupam/RupeeTrail) — Full-featured financial management platform with 100+ features for personal finance, freelancing, hosting businesses, and companies.
 - [JobVibe](https://github.com/tech-anupam/JobVibe)
 - [Minecraft-Tier-List-Bot](https://github.com/tech-anupam/Minecraft-Tier-List-Bot) — A Website For Displaying Tiers For Minecraft Players With Help Of Discord Bot 
+
+</details>
+
+<details>
+<summary><b>Other</b> (6)</summary>
+
+- [website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill) — Find businesses that need a new website (or a rebuild of the one they have), and get a ready-to-send outreach list  automatically.
+- [tech.anupam](https://github.com/tech-anupam/tech.anupam)
+- [list-of-all-discord-repo](https://github.com/tech-anupam/list-of-all-discord-repo) — List of all source code containing discord bot,bot,discord-bot tag
+- [Community-Minecraft-Skripts](https://github.com/tech-anupam/Community-Minecraft-Skripts) — ★ 1
+- [MemeGen](https://github.com/tech-anupam/MemeGen) — Meme Generator Web App that combines Canva-like editing features with Giphy integration and an advanced features.
+- [discordraiderbytriggered](https://github.com/tech-anupam/discordraiderbytriggered) — Discord Ultra Raider  Customizable Message And Commands!
 
 </details>
 
