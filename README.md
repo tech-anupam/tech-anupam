@@ -32,7 +32,7 @@ Open for hire. AI-heavy stack knowledge if that's what your project needs.
 Grouped by language, pulled live from the GitHub API. No curated shortlist — this is everything.
 
 <!--START_SECTION:all-repos-->
-**48 repositories**
+**49 repositories**
 
 <details>
 <summary><b>Java</b> (19)</summary>
@@ -97,8 +97,9 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 </details>
 
 <details>
-<summary><b>Python</b> (3)</summary>
+<summary><b>Python</b> (4)</summary>
 
+- [hackfolio](https://github.com/tech-anupam/hackfolio) — A live index of creative projects built at hackathons. Updated daily from Devfolio
 - [awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem) — A curated, auto-updating collection of the most useful AI Agents, MCP Servers, Agent Skills, AI Plugins, and Frameworks. 
 - [G1axBluetoothJammer](https://github.com/tech-anupam/G1axBluetoothJammer) — Auto-scan + auto-flood Bluetooth jammer for Termux (Android). Scans all nearby classic & BLE devices and simultaneously floods them using `l2ping` to disrupt their connections — for personal resort/property security. — ★ 2
 - [Anupam-OSINT](https://github.com/tech-anupam/Anupam-OSINT) — One framework. Many traces. Deep OSINT.
@@ -142,11 +143,11 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 ## Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
-2. ℹ️ Assigned PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
-3. 💪 Opened PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
-4. 🎉 Merged PR [#4](https://github.com/tech-anupam/website-client-finder-skill/pull/4) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
-5. ℹ️ Unassigned PR [#4](https://github.com/tech-anupam/website-client-finder-skill/pull/4) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
+1. 🗣 Commented on [#3](https://github.com/tech-anupam/awesome-agentic-ecosystem/pull/3#issuecomment-5710164362) in [tech-anupam/awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+2. 🎉 Merged PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
+3. ℹ️ Assigned PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
+4. 💪 Opened PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
+5. 🎉 Merged PR [#4](https://github.com/tech-anupam/website-client-finder-skill/pull/4) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
 <!--END_SECTION:activity-->
 
 
