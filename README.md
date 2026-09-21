@@ -32,7 +32,7 @@ Open for hire. AI-heavy stack knowledge if that's what your project needs.
 Grouped by language, pulled live from the GitHub API. No curated shortlist — this is everything.
 
 <!--START_SECTION:all-repos-->
-**49 repositories**
+**50 repositories**
 
 <details>
 <summary><b>Java</b> (19)</summary>
@@ -62,7 +62,7 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <details>
 <summary><b>Kotlin</b> (7)</summary>
 
-- [LowYourTone](https://github.com/tech-anupam/LowYourTone) — LowYourTone is an open-source, 100% offline, privacy-first Android application that triggers custom device actions and automations using on-device voice wake words.
+- [LowYourTone](https://github.com/tech-anupam/LowYourTone) — LowYourTone is an open-source, 100% offline, privacy-first Android application that triggers custom device actions and automations using on-device voice wake words. — ★ 1
 - [BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC) — The only meme soundboard software you need on PC. Instant viral Indian & global meme pads, custom global hotkeys, favorites deck shuffle, and zero ads.
 - [BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu) — BoardMyDelulu: The only soundboard app you need. Instant viral Indian and global meme audio pads with zero bullshit and zero ads. — ★ 1
 - [Googlify](https://github.com/tech-anupam/Googlify) — Generate unlimited unique Gmail addresses from one account no sign-ups, no new inboxes. Works for AI tools, free trials, and anything else. — ★ 1
@@ -97,21 +97,22 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 </details>
 
 <details>
+<summary><b>TypeScript</b> (4)</summary>
+
+- [MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext) — Maria will remind you for water/hydration beautifully in your browser as a companion
+- [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
+- [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 1
+- [G1axAnonyms](https://github.com/tech-anupam/G1axAnonyms) — a open source multi platform anonyms  message sender platform just same like ngl.link but with more features!
+
+</details>
+
+<details>
 <summary><b>Python</b> (4)</summary>
 
 - [hackfolio](https://github.com/tech-anupam/hackfolio) — A live index of creative projects built at hackathons. Updated daily from Devfolio
 - [awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem) — A curated, auto-updating collection of the most useful AI Agents, MCP Servers, Agent Skills, AI Plugins, and Frameworks. 
 - [G1axBluetoothJammer](https://github.com/tech-anupam/G1axBluetoothJammer) — Auto-scan + auto-flood Bluetooth jammer for Termux (Android). Scans all nearby classic & BLE devices and simultaneously floods them using `l2ping` to disrupt their connections — for personal resort/property security. — ★ 2
 - [Anupam-OSINT](https://github.com/tech-anupam/Anupam-OSINT) — One framework. Many traces. Deep OSINT.
-
-</details>
-
-<details>
-<summary><b>TypeScript</b> (3)</summary>
-
-- [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
-- [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 1
-- [G1axAnonyms](https://github.com/tech-anupam/G1axAnonyms) — a open source multi platform anonyms  message sender platform just same like ngl.link but with more features!
 
 </details>
 
