@@ -97,22 +97,22 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 </details>
 
 <details>
-<summary><b>TypeScript</b> (4)</summary>
-
-- [MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext) — Maria will remind you for water/hydration beautifully in your browser as a companion
-- [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
-- [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 1
-- [G1axAnonyms](https://github.com/tech-anupam/G1axAnonyms) — a open source multi platform anonyms  message sender platform just same like ngl.link but with more features!
-
-</details>
-
-<details>
 <summary><b>Python</b> (4)</summary>
 
 - [hackfolio](https://github.com/tech-anupam/hackfolio) — A live index of creative projects built at hackathons. Updated daily from Devfolio
 - [awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem) — A curated, auto-updating collection of the most useful AI Agents, MCP Servers, Agent Skills, AI Plugins, and Frameworks. 
 - [G1axBluetoothJammer](https://github.com/tech-anupam/G1axBluetoothJammer) — Auto-scan + auto-flood Bluetooth jammer for Termux (Android). Scans all nearby classic & BLE devices and simultaneously floods them using `l2ping` to disrupt their connections — for personal resort/property security. — ★ 2
 - [Anupam-OSINT](https://github.com/tech-anupam/Anupam-OSINT) — One framework. Many traces. Deep OSINT.
+
+</details>
+
+<details>
+<summary><b>TypeScript</b> (4)</summary>
+
+- [MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext) — Maria will remind you for water/hydration beautifully in your browser as a companion
+- [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
+- [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 1
+- [G1axAnonyms](https://github.com/tech-anupam/G1axAnonyms) — a open source multi platform anonyms  message sender platform just same like ngl.link but with more features!
 
 </details>
 
@@ -144,11 +144,11 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 ## Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/tech-anupam/awesome-agentic-ecosystem/pull/3#issuecomment-5710164362) in [tech-anupam/awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem)
-2. 🎉 Merged PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
-3. ℹ️ Assigned PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
-4. 💪 Opened PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
-5. 🎉 Merged PR [#4](https://github.com/tech-anupam/website-client-finder-skill/pull/4) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
+1. 🚀 Published release [Extension - MariaRemindsUS |  Chrome/FireFox/Edge Browser Extension](https://github.com/tech-anupam/MariaReminds-ext/releases/tag/ext) in [tech-anupam/MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext)
+2. 🗣 Commented on [#3](https://github.com/tech-anupam/awesome-agentic-ecosystem/pull/3#issuecomment-5710164362) in [tech-anupam/awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem)
+3. 🎉 Merged PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
+4. ℹ️ Assigned PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
+5. 💪 Opened PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
 <!--END_SECTION:activity-->
 
 
