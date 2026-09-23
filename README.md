@@ -99,8 +99,8 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <details>
 <summary><b>Python</b> (4)</summary>
 
+- [hackfolio](https://github.com/tech-anupam/hackfolio) — A curated collection of creative project,startup & business ideas, not an AI sloped project idea!
 - [awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem) — A curated, auto-updating collection of the most useful AI Agents, MCP Servers, Agent Skills, AI Plugins, and Frameworks. 
-- [hackfolio](https://github.com/tech-anupam/hackfolio) — A live index of creative projects built at hackathons. Updated daily from Devfolio
 - [G1axBluetoothJammer](https://github.com/tech-anupam/G1axBluetoothJammer) — Auto-scan + auto-flood Bluetooth jammer for Termux (Android). Scans all nearby classic & BLE devices and simultaneously floods them using `l2ping` to disrupt their connections — for personal resort/property security. — ★ 2
 - [Anupam-OSINT](https://github.com/tech-anupam/Anupam-OSINT) — One framework. Many traces. Deep OSINT.
 
