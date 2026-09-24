@@ -32,7 +32,7 @@ Open for hire. AI-heavy stack knowledge if that's what your project needs.
 Grouped by language, pulled live from the GitHub API. No curated shortlist — this is everything.
 
 <!--START_SECTION:all-repos-->
-**50 repositories**
+**51 repositories**
 
 <details>
 <summary><b>Java</b> (19)</summary>
@@ -97,22 +97,23 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 </details>
 
 <details>
-<summary><b>Python</b> (4)</summary>
+<summary><b>TypeScript</b> (5)</summary>
 
-- [awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem) — A curated, auto-updating collection of the most useful AI Agents, MCP Servers, Agent Skills, AI Plugins, and Frameworks. 
-- [hackfolio](https://github.com/tech-anupam/hackfolio) — A curated collection of creative project,startup & business ideas, not an AI sloped project idea!
-- [G1axBluetoothJammer](https://github.com/tech-anupam/G1axBluetoothJammer) — Auto-scan + auto-flood Bluetooth jammer for Termux (Android). Scans all nearby classic & BLE devices and simultaneously floods them using `l2ping` to disrupt their connections — for personal resort/property security. — ★ 2
-- [Anupam-OSINT](https://github.com/tech-anupam/Anupam-OSINT) — One framework. Many traces. Deep OSINT.
-
-</details>
-
-<details>
-<summary><b>TypeScript</b> (4)</summary>
-
+- [Portfolio](https://github.com/tech-anupam/Portfolio) — Personal developer portfolio and interactive showcase built for Anupam Jha — ★ 1
 - [MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext) — Maria will remind you for water/hydration beautifully in your browser as a companion
 - [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
 - [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 1
 - [G1axAnonyms](https://github.com/tech-anupam/G1axAnonyms) — a open source multi platform anonyms  message sender platform just same like ngl.link but with more features!
+
+</details>
+
+<details>
+<summary><b>Python</b> (4)</summary>
+
+- [awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem) — A curated, auto-updating collection of the most useful AI Agents, MCP Servers, Agent Skills, AI Plugins, and Frameworks. 
+- [hackfolio](https://github.com/tech-anupam/hackfolio) — A curated collection of creative project,startup & business ideas, not an AI sloped project idea!
+- [G1axBluetoothJammer](https://github.com/tech-anupam/G1axBluetoothJammer) — Auto-scan + auto-flood Bluetooth jammer for Termux (Android). Scans all nearby classic & BLE devices and simultaneously floods them using `l2ping` to disrupt their connections — for personal resort/property security. — ★ 3
+- [Anupam-OSINT](https://github.com/tech-anupam/Anupam-OSINT) — One framework. Many traces. Deep OSINT.
 
 </details>
 
