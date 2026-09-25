@@ -99,7 +99,7 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <details>
 <summary><b>TypeScript</b> (5)</summary>
 
-- [Portfolio](https://github.com/tech-anupam/Portfolio) — Personal developer portfolio and interactive showcase built for Anupam Jha — ★ 1
+- [Portfolio](https://github.com/tech-anupam/Portfolio) — Personal developer portfolio and interactive showcase built for Anupam Jha — ★ 2
 - [MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext) — Maria will remind you for water/hydration beautifully in your browser as a companion
 - [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
 - [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 1
