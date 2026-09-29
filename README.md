@@ -32,7 +32,7 @@ Open for hire. AI-heavy stack knowledge if that's what your project needs.
 Grouped by language, pulled live from the GitHub API. No curated shortlist — this is everything.
 
 <!--START_SECTION:all-repos-->
-**51 repositories**
+**52 repositories**
 
 <details>
 <summary><b>Java</b> (19)</summary>
@@ -73,6 +73,18 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 </details>
 
 <details>
+<summary><b>TypeScript</b> (6)</summary>
+
+- [OpenShare](https://github.com/tech-anupam/OpenShare) — OpenShare is a zero-account, anonymous file and paste sharing platform. Everything is encrypted client-side before leaving your browser. No sign-ups, no cookies, no tracking. Share a file or markdown paste, get a link, done.
+- [Portfolio](https://github.com/tech-anupam/Portfolio) — Personal developer portfolio and interactive showcase built for Anupam Jha — ★ 2
+- [MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext) — Maria will remind you for water/hydration beautifully in your browser as a companion
+- [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
+- [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 1
+- [G1axAnonyms](https://github.com/tech-anupam/G1axAnonyms) — a open source multi platform anonyms  message sender platform just same like ngl.link but with more features!
+
+</details>
+
+<details>
 <summary><b>JavaScript</b> (6)</summary>
 
 - [tech-anupam](https://github.com/tech-anupam/tech-anupam) — a beautiful github profile repo 
@@ -93,17 +105,6 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 - [Community-Minecraft-Skripts](https://github.com/tech-anupam/Community-Minecraft-Skripts) — ★ 1
 - [MemeGen](https://github.com/tech-anupam/MemeGen) — Meme Generator Web App that combines Canva-like editing features with Giphy integration and an advanced features.
 - [discordraiderbytriggered](https://github.com/tech-anupam/discordraiderbytriggered) — Discord Ultra Raider  Customizable Message And Commands!
-
-</details>
-
-<details>
-<summary><b>TypeScript</b> (5)</summary>
-
-- [Portfolio](https://github.com/tech-anupam/Portfolio) — Personal developer portfolio and interactive showcase built for Anupam Jha — ★ 2
-- [MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext) — Maria will remind you for water/hydration beautifully in your browser as a companion
-- [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
-- [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 1
-- [G1axAnonyms](https://github.com/tech-anupam/G1axAnonyms) — a open source multi platform anonyms  message sender platform just same like ngl.link but with more features!
 
 </details>
 
