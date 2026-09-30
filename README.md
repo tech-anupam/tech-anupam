@@ -73,18 +73,6 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 </details>
 
 <details>
-<summary><b>JavaScript</b> (6)</summary>
-
-- [tech-anupam](https://github.com/tech-anupam/tech-anupam) — a beautiful github profile repo 
-- [awesome-project-ideas](https://github.com/tech-anupam/awesome-project-ideas) — A large starting library of buildable ideas organised around real users, public information, operational gaps, and open-source opportunities. Start with a category, investigate the problem, compare existing work, and make the first version useful.
-- [OSINTFORIND](https://github.com/tech-anupam/OSINTFORIND) — A premium, high-performance, and mobile-first open-source intelligence (OSINT) helper console tailored for investigative analysis, domain mapping, profile correlation, and advanced dork compiling
-- [RupeeTrail](https://github.com/tech-anupam/RupeeTrail) — Full-featured financial management platform with 100+ features for personal finance, freelancing, hosting businesses, and companies.
-- [JobVibe](https://github.com/tech-anupam/JobVibe)
-- [Minecraft-Tier-List-Bot](https://github.com/tech-anupam/Minecraft-Tier-List-Bot) — A Website For Displaying Tiers For Minecraft Players With Help Of Discord Bot 
-
-</details>
-
-<details>
 <summary><b>TypeScript</b> (6)</summary>
 
 - [OpenShare](https://github.com/tech-anupam/OpenShare) — OpenShare is a zero-account, anonymous file and paste sharing platform. Everything is encrypted client-side before leaving your browser. No sign-ups, no cookies, no tracking. Share a file or markdown paste, get a link, done.
@@ -93,6 +81,18 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 - [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
 - [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 1
 - [G1axAnonyms](https://github.com/tech-anupam/G1axAnonyms) — a open source multi platform anonyms  message sender platform just same like ngl.link but with more features!
+
+</details>
+
+<details>
+<summary><b>JavaScript</b> (6)</summary>
+
+- [tech-anupam](https://github.com/tech-anupam/tech-anupam) — a beautiful github profile repo 
+- [awesome-project-ideas](https://github.com/tech-anupam/awesome-project-ideas) — A large starting library of buildable ideas organised around real users, public information, operational gaps, and open-source opportunities. Start with a category, investigate the problem, compare existing work, and make the first version useful.
+- [OSINTFORIND](https://github.com/tech-anupam/OSINTFORIND) — A premium, high-performance, and mobile-first open-source intelligence (OSINT) helper console tailored for investigative analysis, domain mapping, profile correlation, and advanced dork compiling
+- [RupeeTrail](https://github.com/tech-anupam/RupeeTrail) — Full-featured financial management platform with 100+ features for personal finance, freelancing, hosting businesses, and companies.
+- [JobVibe](https://github.com/tech-anupam/JobVibe)
+- [Minecraft-Tier-List-Bot](https://github.com/tech-anupam/Minecraft-Tier-List-Bot) — A Website For Displaying Tiers For Minecraft Players With Help Of Discord Bot 
 
 </details>
 
