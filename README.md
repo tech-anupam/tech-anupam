@@ -32,7 +32,7 @@ Open for hire. AI-heavy stack knowledge if that's what your project needs.
 Grouped by language, pulled live from the GitHub API. No curated shortlist — this is everything.
 
 <!--START_SECTION:all-repos-->
-**52 repositories**
+**53 repositories**
 
 <details>
 <summary><b>Java</b> (19)</summary>
@@ -64,7 +64,7 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 
 - [LowYourTone](https://github.com/tech-anupam/LowYourTone) — LowYourTone is an open-source, 100% offline, privacy-first Android application that triggers custom device actions and automations using on-device voice wake words. — ★ 1
 - [BoardMyDelulu-PC](https://github.com/tech-anupam/BoardMyDelulu-PC) — The only meme soundboard software you need on PC. Instant viral Indian & global meme pads, custom global hotkeys, favorites deck shuffle, and zero ads.
-- [BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu) — BoardMyDelulu: The only soundboard app you need. Instant viral Indian and global meme audio pads with zero bullshit and zero ads. — ★ 1
+- [BoardMyDelulu](https://github.com/tech-anupam/BoardMyDelulu) — BoardMyDelulu: The only soundboard app you need. Instant viral Indian and global meme audio pads with zero bullshit and zero ads. — ★ 2
 - [Googlify](https://github.com/tech-anupam/Googlify) — Generate unlimited unique Gmail addresses from one account no sign-ups, no new inboxes. Works for AI tools, free trials, and anything else. — ★ 1
 - [OyeSuno](https://github.com/tech-anupam/OyeSuno) — OyeSuno is an all-in-one smart audio recording studio, sound library, and waveform editor built for Android.
 - [QuickQR](https://github.com/tech-anupam/QuickQR) — Most QR generators produce plain, rigid, black-and-white pixel grids. QuickQR transforms QR code creation into a Canva-style creative design studio built natively for Android. It gives you total creative control over the visual appearance, shapes, colors, badges, and layout of your QR codes while ensuring they remain 100% functional and scannable.
@@ -123,6 +123,13 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 
 - [ScreamBTD-Theme](https://github.com/tech-anupam/ScreamBTD-Theme) — A clean, dark BetterDiscord theme with a horizontal bottom server bar, Ghostface / Scream aesthetics, and deep teal accents. 100% standalone with zero dependencies.
 - [AkaTriggered.github.io](https://github.com/tech-anupam/AkaTriggered.github.io)
+
+</details>
+
+<details>
+<summary><b>Batchfile</b> (1)</summary>
+
+- [XboxGameBar-fix](https://github.com/tech-anupam/XboxGameBar-fix) — Configure, repair and troubleshoot Xbox Game Bar recording from one menu!
 
 </details>
 
