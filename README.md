@@ -64,7 +64,7 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 
 - [VibeFinance](https://github.com/tech-anupam/VibeFinance) — Tip Court: 5 parallel AI agents put any stock tip on trial against live market data, audited filings, and web chatter. Returns a cited verdict (PROCEED / REDUCE_SIZE / WAIT_48H / AVOID) with a trade plan. Built for Wild Bugs 2026 (PS04 VibeFinance).
 - [OpenShare](https://github.com/tech-anupam/OpenShare) — OpenShare is a zero-account, anonymous file and paste sharing platform. Everything is encrypted client-side before leaving your browser. No sign-ups, no cookies, no tracking. Share a file or markdown paste, get a link, done. — ★ 1
-- [Portfolio](https://github.com/tech-anupam/Portfolio) — Personal developer portfolio and interactive showcase built for Anupam Jha — ★ 2
+- [Portfolio](https://github.com/tech-anupam/Portfolio) — Personal developer portfolio and interactive showcase built for Anupam Jha — ★ 3
 - [MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext) — Maria will remind you for water/hydration beautifully in your browser as a companion
 - [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
 - [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 1
@@ -113,7 +113,7 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <summary><b>Python</b> (4)</summary>
 
 - [awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem) — A curated, auto-updating collection of the most useful AI Agents, MCP Servers, Agent Skills, AI Plugins, and Frameworks. 
-- [hackfolio](https://github.com/tech-anupam/hackfolio) — A curated collection of creative project,startup & business ideas, not an AI sloped project idea!
+- [hackfolio](https://github.com/tech-anupam/hackfolio) — A curated collection of creative project,startup & business ideas, not an AI sloped project idea! — ★ 1
 - [G1axBluetoothJammer](https://github.com/tech-anupam/G1axBluetoothJammer) — Auto-scan + auto-flood Bluetooth jammer for Termux (Android). Scans all nearby classic & BLE devices and simultaneously floods them using `l2ping` to disrupt their connections — for personal resort/property security. — ★ 3
 - [Anupam-OSINT](https://github.com/tech-anupam/Anupam-OSINT) — One framework. Many traces. Deep OSINT.
 
