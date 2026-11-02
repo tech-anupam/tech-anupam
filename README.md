@@ -32,7 +32,7 @@ Open for hire. AI-heavy stack knowledge if that's what your project needs.
 Grouped by language, pulled live from the GitHub API. No curated shortlist — this is everything.
 
 <!--START_SECTION:all-repos-->
-**54 repositories**
+**55 repositories**
 
 <details>
 <summary><b>Java</b> (19)</summary>
@@ -56,6 +56,19 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 - [G1axWhitelist](https://github.com/tech-anupam/G1axWhitelist) — Intelligent Tier-Based Auto-Whitelist
 - [RegionPlus](https://github.com/tech-anupam/RegionPlus) — A lightweight WorldGuard addon that provides advanced placeholders and region tracking functionality.
 - [BetterArenaResetter](https://github.com/tech-anupam/BetterArenaResetter) — Ultimate Arena Management Plugin  — ★ 3
+
+</details>
+
+<details>
+<summary><b>Other</b> (7)</summary>
+
+- [DeExtension](https://github.com/tech-anupam/DeExtension) — View, analyze & download source code from any browser extension. Chrome, Firefox, Edge  all supported.
+- [website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill) — Find businesses that need a new website (or a rebuild of the one they have), and get a ready-to-send outreach list  automatically.
+- [tech.anupam](https://github.com/tech-anupam/tech.anupam)
+- [list-of-all-discord-repo](https://github.com/tech-anupam/list-of-all-discord-repo) — List of all source code containing discord bot,bot,discord-bot tag
+- [Community-Minecraft-Skripts](https://github.com/tech-anupam/Community-Minecraft-Skripts) — ★ 1
+- [MemeGen](https://github.com/tech-anupam/MemeGen) — Meme Generator Web App that combines Canva-like editing features with Giphy integration and an advanced features.
+- [discordraiderbytriggered](https://github.com/tech-anupam/discordraiderbytriggered) — Discord Ultra Raider  Customizable Message And Commands!
 
 </details>
 
@@ -94,18 +107,6 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 - [RupeeTrail](https://github.com/tech-anupam/RupeeTrail) — Full-featured financial management platform with 100+ features for personal finance, freelancing, hosting businesses, and companies.
 - [JobVibe](https://github.com/tech-anupam/JobVibe)
 - [Minecraft-Tier-List-Bot](https://github.com/tech-anupam/Minecraft-Tier-List-Bot) — A Website For Displaying Tiers For Minecraft Players With Help Of Discord Bot 
-
-</details>
-
-<details>
-<summary><b>Other</b> (6)</summary>
-
-- [website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill) — Find businesses that need a new website (or a rebuild of the one they have), and get a ready-to-send outreach list  automatically.
-- [tech.anupam](https://github.com/tech-anupam/tech.anupam)
-- [list-of-all-discord-repo](https://github.com/tech-anupam/list-of-all-discord-repo) — List of all source code containing discord bot,bot,discord-bot tag
-- [Community-Minecraft-Skripts](https://github.com/tech-anupam/Community-Minecraft-Skripts) — ★ 1
-- [MemeGen](https://github.com/tech-anupam/MemeGen) — Meme Generator Web App that combines Canva-like editing features with Giphy integration and an advanced features.
-- [discordraiderbytriggered](https://github.com/tech-anupam/discordraiderbytriggered) — Discord Ultra Raider  Customizable Message And Commands!
 
 </details>
 
