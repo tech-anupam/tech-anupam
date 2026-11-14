@@ -80,7 +80,7 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 - [Portfolio](https://github.com/tech-anupam/Portfolio) — Personal developer portfolio and interactive showcase built for Anupam Jha — ★ 3
 - [MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext) — Maria will remind you for water/hydration beautifully in your browser as a companion
 - [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
-- [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 1
+- [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 2
 - [G1axAnonyms](https://github.com/tech-anupam/G1axAnonyms) — a open source multi platform anonyms  message sender platform just same like ngl.link but with more features!
 
 </details>
