@@ -32,7 +32,7 @@ Open for hire. AI-heavy stack knowledge if that's what your project needs.
 Grouped by language, pulled live from the GitHub API. No curated shortlist — this is everything.
 
 <!--START_SECTION:all-repos-->
-**55 repositories**
+**56 repositories**
 
 <details>
 <summary><b>Java</b> (19)</summary>
@@ -60,6 +60,20 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 </details>
 
 <details>
+<summary><b>TypeScript</b> (8)</summary>
+
+- [StreamClipper](https://github.com/tech-anupam/StreamClipper) — A CLI-based automation tool that clips raw livestream footage, isolates separate webcam and gameplay feeds, and exports perfectly framed 9:16 vertical clips ready for short-form platforms for you <3.
+- [VibeFinance](https://github.com/tech-anupam/VibeFinance) — Tip Court: 5 parallel AI agents put any stock tip on trial against live market data, audited filings, and web chatter. Returns a cited verdict (PROCEED / REDUCE_SIZE / WAIT_48H / AVOID) with a trade plan. Built for Wild Bugs 2026 (PS04 VibeFinance).
+- [OpenShare](https://github.com/tech-anupam/OpenShare) — OpenShare is a zero-account, anonymous file and paste sharing platform. Everything is encrypted client-side before leaving your browser. No sign-ups, no cookies, no tracking. Share a file or markdown paste, get a link, done. — ★ 1
+- [Portfolio](https://github.com/tech-anupam/Portfolio) — Personal developer portfolio and interactive showcase built for Anupam Jha — ★ 3
+- [MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext) — Maria will remind you for water/hydration beautifully in your browser as a companion
+- [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
+- [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 2
+- [G1axAnonyms](https://github.com/tech-anupam/G1axAnonyms) — a open source multi platform anonyms  message sender platform just same like ngl.link but with more features!
+
+</details>
+
+<details>
 <summary><b>Other</b> (7)</summary>
 
 - [DeExtension](https://github.com/tech-anupam/DeExtension) — View, analyze & download source code from any browser extension. Chrome, Firefox, Edge  all supported.
@@ -69,19 +83,6 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 - [Community-Minecraft-Skripts](https://github.com/tech-anupam/Community-Minecraft-Skripts) — ★ 1
 - [MemeGen](https://github.com/tech-anupam/MemeGen) — Meme Generator Web App that combines Canva-like editing features with Giphy integration and an advanced features.
 - [discordraiderbytriggered](https://github.com/tech-anupam/discordraiderbytriggered) — Discord Ultra Raider  Customizable Message And Commands!
-
-</details>
-
-<details>
-<summary><b>TypeScript</b> (7)</summary>
-
-- [VibeFinance](https://github.com/tech-anupam/VibeFinance) — Tip Court: 5 parallel AI agents put any stock tip on trial against live market data, audited filings, and web chatter. Returns a cited verdict (PROCEED / REDUCE_SIZE / WAIT_48H / AVOID) with a trade plan. Built for Wild Bugs 2026 (PS04 VibeFinance).
-- [OpenShare](https://github.com/tech-anupam/OpenShare) — OpenShare is a zero-account, anonymous file and paste sharing platform. Everything is encrypted client-side before leaving your browser. No sign-ups, no cookies, no tracking. Share a file or markdown paste, get a link, done. — ★ 1
-- [Portfolio](https://github.com/tech-anupam/Portfolio) — Personal developer portfolio and interactive showcase built for Anupam Jha — ★ 3
-- [MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext) — Maria will remind you for water/hydration beautifully in your browser as a companion
-- [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
-- [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 2
-- [G1axAnonyms](https://github.com/tech-anupam/G1axAnonyms) — a open source multi platform anonyms  message sender platform just same like ngl.link but with more features!
 
 </details>
 
