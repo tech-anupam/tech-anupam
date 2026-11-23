@@ -62,10 +62,10 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 <details>
 <summary><b>TypeScript</b> (8)</summary>
 
-- [StreamClipper](https://github.com/tech-anupam/StreamClipper) — A CLI-based automation tool that clips raw livestream footage, isolates separate webcam and gameplay feeds, and exports perfectly framed 9:16 vertical clips ready for short-form platforms for you <3.
-- [VibeFinance](https://github.com/tech-anupam/VibeFinance) — Tip Court: 5 parallel AI agents put any stock tip on trial against live market data, audited filings, and web chatter. Returns a cited verdict (PROCEED / REDUCE_SIZE / WAIT_48H / AVOID) with a trade plan. Built for Wild Bugs 2026 (PS04 VibeFinance).
 - [OpenShare](https://github.com/tech-anupam/OpenShare) — OpenShare is a zero-account, anonymous file and paste sharing platform. Everything is encrypted client-side before leaving your browser. No sign-ups, no cookies, no tracking. Share a file or markdown paste, get a link, done. — ★ 1
 - [Portfolio](https://github.com/tech-anupam/Portfolio) — Personal developer portfolio and interactive showcase built for Anupam Jha — ★ 3
+- [StreamClipper](https://github.com/tech-anupam/StreamClipper) — A CLI-based automation tool that clips raw livestream footage, isolates separate webcam and gameplay feeds, and exports perfectly framed 9:16 vertical clips ready for short-form platforms for you <3.
+- [VibeFinance](https://github.com/tech-anupam/VibeFinance) — Tip Court: 5 parallel AI agents put any stock tip on trial against live market data, audited filings, and web chatter. Returns a cited verdict (PROCEED / REDUCE_SIZE / WAIT_48H / AVOID) with a trade plan. Built for Wild Bugs 2026 (PS04 VibeFinance).
 - [MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext) — Maria will remind you for water/hydration beautifully in your browser as a companion
 - [meco](https://github.com/tech-anupam/meco) — The missing behavior pipeline for LLMs. Gives your AI human-like emotion, timing, and personality before it speaks.
 - [NearbyInstaMAP](https://github.com/tech-anupam/NearbyInstaMAP) — Find Nearby Instagram accounts with this amazing tool ! — ★ 2
@@ -156,11 +156,11 @@ Grouped by language, pulled live from the GitHub API. No curated shortlist — t
 ## Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/tech-anupam/G1ax-Crystal-Optimizer/pull/11) in [tech-anupam/G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer)
-2. 💪 Opened PR [#11](https://github.com/tech-anupam/G1ax-Crystal-Optimizer/pull/11) in [tech-anupam/G1ax-Crystal-Optimizer](https://github.com/tech-anupam/G1ax-Crystal-Optimizer)
-3. 🚀 Published release [Extension - MariaRemindsUS |  Chrome/FireFox/Edge Browser Extension](https://github.com/tech-anupam/MariaReminds-ext/releases/tag/ext) in [tech-anupam/MariaReminds-ext](https://github.com/tech-anupam/MariaReminds-ext)
-4. 🗣 Commented on [#3](https://github.com/tech-anupam/awesome-agentic-ecosystem/pull/3#issuecomment-5710164362) in [tech-anupam/awesome-agentic-ecosystem](https://github.com/tech-anupam/awesome-agentic-ecosystem)
-5. 🎉 Merged PR [#6](https://github.com/tech-anupam/website-client-finder-skill/pull/6) in [tech-anupam/website-client-finder-skill](https://github.com/tech-anupam/website-client-finder-skill)
+1. 🎉 Merged PR [#3](https://github.com/tech-anupam/OpenShare/pull/3) in [tech-anupam/OpenShare](https://github.com/tech-anupam/OpenShare)
+2. ℹ️ Assigned PR [#3](https://github.com/tech-anupam/OpenShare/pull/3) in [tech-anupam/OpenShare](https://github.com/tech-anupam/OpenShare)
+3. 💪 Opened PR [#3](https://github.com/tech-anupam/OpenShare/pull/3) in [tech-anupam/OpenShare](https://github.com/tech-anupam/OpenShare)
+4. 🎉 Merged PR [#2](https://github.com/tech-anupam/OpenShare/pull/2) in [tech-anupam/OpenShare](https://github.com/tech-anupam/OpenShare)
+5. ℹ️ Assigned PR [#2](https://github.com/tech-anupam/OpenShare/pull/2) in [tech-anupam/OpenShare](https://github.com/tech-anupam/OpenShare)
 <!--END_SECTION:activity-->
 
 
